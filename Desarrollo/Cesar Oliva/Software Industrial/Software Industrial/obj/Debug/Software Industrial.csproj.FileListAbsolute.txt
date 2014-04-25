@@ -1,0 +1,10 @@
+c:\users\joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\bin\Debug\Software Industrial.exe.config
+c:\users\joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\bin\Debug\Software Industrial.exe
+c:\users\joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\bin\Debug\Software Industrial.pdb
+c:\users\joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software Industrial.csprojResolveAssemblyReference.cache
+c:\users\joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Properties.Resources.resources
+c:\users\joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software Industrial.csproj.GenerateResource.Cache
+c:\users\joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software Industrial.exe
+c:\users\joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software Industrial.pdb
+c:\users\joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.MDI.resources
+c:\users\joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Login.resources
