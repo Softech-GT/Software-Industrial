@@ -1,0 +1,122 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using ODBCConnect;
+
+namespace Software_Industrial
+{
+    public partial class puestos : Form
+    {
+        public puestos()
+        {
+            InitializeComponent();
+        }
+
+        DBConnect db = new DBConnect("recursos_humanos");
+        bool editar = false, nuevo = false, cambio = false;
+        int id = 0;
+
+
+        private void consulta()
+        {
+            string query = "select p.tbpuesto_id, p.tbpuesto_sueldo as 'Sueldo', p.tbpuesto_descripcion as 'Descripcion', p.tbpuesto_requisitos as 'Requisitos', p.tbpuesto_salariobase as 'Salario Base', d.tbdepto_nombre as 'Departamento', tbdepto_id from tbdepto d, tbpuesto p where d.tbdepto_id=p.tbdepto_tbdepto_id";
+            puesto_dgw.DataSource = db.consulta_DataGridView(query);
+            puesto_dgw.Columns[0].Visible = false;
+            puesto_dgw.Columns[6].Visible = false;
+            puesto_dgw.Focus();
+        }
+
+        private void limpiar()
+        {
+            sueldo_text.Text = descripcion_text.Text = requisitos_text.Text = salario_text.Text = "";
+            sueldo_text.Enabled = descripcion_text.Enabled = requisitos_text.Enabled = salario_text.Enabled = departamento_cmb.Enabled = false;
+        }
+        private void button1_Click(object sender, EventArgs e)
+        {
+            sueldo_text.Enabled = descripcion_text.Enabled = requisitos_text.Enabled = salario_text.Enabled = departamento_cmb.Enabled = true;
+            sueldo_text.Focus();
+            nuevo = true;
+            editar = false;
+        }
+
+        private void puestos_Load(object sender, EventArgs e)
+        {
+            departamento_cmb.DataSource = db.consulta_ComboBox("select tbdepto_id,tbdepto_nombre from tbdepto");
+            departamento_cmb.DisplayMember = "tbdepto_nombre";
+            departamento_cmb.ValueMember = "tbdepto_id";
+            consulta();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            string tabla = "tbpuesto";
+            Dictionary<string, string> d = new Dictionary<string, string>();
+            d.Add("tbpuesto_sueldo", sueldo_text.Text);
+            d.Add("tbpuesto_descripcion", descripcion_text.Text);
+            d.Add("tbpuesto_requisitos", requisitos_text.Text);
+            d.Add("tbpuesto_salariobase", salario_text.Text);
+            d.Add("tbdepto_tbdepto_id", departamento_cmb.SelectedValue.ToString());
+            if (nuevo)
+            {
+                db.insertar(tabla, d);
+                nuevo = false;
+                consulta();
+                limpiar();
+            }
+            if (editar)
+            {
+                db.actualizar(tabla, d, "tbpuesto_id=" + id);
+                editar = false;
+                consulta();
+                limpiar();
+            }
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            if (cambio)
+            {
+                nuevo = false;
+                int k = puesto_dgw.CurrentRow.Index;
+                id = Convert.ToInt32(puesto_dgw.Rows[k].Cells[0].Value);
+                sueldo_text.Text = puesto_dgw.Rows[k].Cells[1].Value.ToString();
+                descripcion_text.Text = puesto_dgw.Rows[k].Cells[2].Value.ToString();
+                requisitos_text.Text = puesto_dgw.Rows[k].Cells[3].Value.ToString();
+                salario_text.Text = puesto_dgw.Rows[k].Cells[4].Value.ToString();
+                int l = Convert.ToInt32(puesto_dgw.Rows[k].Cells[6].Value);
+                departamento_cmb.SelectedValue = l;
+                sueldo_text.Enabled = descripcion_text.Enabled = requisitos_text.Enabled = salario_text.Enabled = departamento_cmb.Enabled = true;
+                editar = true;
+            }
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            if (cambio)
+            {
+                int k = puesto_dgw.CurrentRow.Index;
+                id = Convert.ToInt32(puesto_dgw.Rows[k].Cells[0].Value);
+                if (MessageBox.Show("¿Desea eliminar el registro?", "Eliminar", MessageBoxButtons.YesNo) == DialogResult.Yes)
+                {
+                    db.eliminar("tbpuesto", "tbpuesto_id=" + id);
+                    consulta();
+                }
+            }
+        }
+
+        private void puesto_dgw_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+
+
+
+    }
+}

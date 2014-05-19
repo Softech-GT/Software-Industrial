@@ -21,5 +21,17 @@ namespace Software_Industrial
         {
             Application.Exit();
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+
+            
+            
+            
+            Recursos_Humanos rh = new Recursos_Humanos();
+
+            rh.Show();
+            
+        }
     }
 }
