@@ -74,6 +74,7 @@
             this.button3.Size = new System.Drawing.Size(112, 108);
             this.button3.TabIndex = 3;
             this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // button4
             // 
@@ -111,9 +112,9 @@
             this.label1.Font = new System.Drawing.Font("Berlin Sans FB", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(150, 305);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(96, 21);
+            this.label1.Size = new System.Drawing.Size(99, 21);
             this.label1.TabIndex = 8;
-            this.label1.Text = "Procuccion";
+            this.label1.Text = "Produccion";
             // 
             // label2
             // 

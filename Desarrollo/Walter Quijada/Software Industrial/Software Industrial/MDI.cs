@@ -21,5 +21,11 @@ namespace Software_Industrial
         {
             Application.Exit();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            stock ne = new stock();
+            ne.ShowDialog();
+        }
     }
 }
