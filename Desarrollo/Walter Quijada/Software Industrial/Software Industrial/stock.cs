@@ -14,7 +14,7 @@ namespace Software_Industrial
    
     public partial class stock : Form
     {
-        DBConnect db = new DBConnect("conexion");
+        DBConnect db = new DBConnect("final_s");
         public stock()
         {
             InitializeComponent();

@@ -10,25 +10,26 @@ using System.Windows.Forms;
 
 namespace Software_Industrial
 {
-    public partial class MDI : Form
+    public partial class compras : Form
     {
-        public MDI()
+        public compras()
         {
             InitializeComponent();
         }
 
-        private void MDI_FormClosing(object sender, FormClosingEventArgs e)
+        private void button2_Click(object sender, EventArgs e)
         {
-            Application.Exit();
+
+            proveedores frm = new proveedores();
+            frm.Show();
         }
 
-        private void button5_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)
         {
 
-            compras frm = new compras();
+
+            pedido frm = new pedido();
             frm.Show();
-
-
         }
     }
 }
