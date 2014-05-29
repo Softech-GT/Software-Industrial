@@ -32,6 +32,12 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="BitacoraErrores">
+      <HintPath>..\..\Librerías\BitacoraErrores.dll</HintPath>
+    </Reference>
+    <Reference Include="Navegador">
+      <HintPath>..\..\Librerías\Navegador.dll</HintPath>
+    </Reference>
     <Reference Include="ODBCConnect">
       <HintPath>..\..\Librerías\ODBCConnect.dll</HintPath>
     </Reference>
@@ -54,6 +60,18 @@
     <Compile Include="ausencias.Designer.cs">
       <DependentUpon>ausencias.cs</DependentUpon>
     </Compile>
+    <Compile Include="Causencias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Causencias.Designer.cs">
+      <DependentUpon>Causencias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="datos_nomina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="datos_nomina.Designer.cs">
+      <DependentUpon>datos_nomina.cs</DependentUpon>
+    </Compile>
     <Compile Include="departamentos.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -66,6 +84,12 @@
     <Compile Include="empleados.Designer.cs">
       <DependentUpon>empleados.cs</DependentUpon>
     </Compile>
+    <Compile Include="gastos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="gastos.Designer.cs">
+      <DependentUpon>gastos.cs</DependentUpon>
+    </Compile>
     <Compile Include="Login.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -77,6 +101,24 @@
     </Compile>
     <Compile Include="MDI.Designer.cs">
       <DependentUpon>MDI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="nominas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="nominas.Designer.cs">
+      <DependentUpon>nominas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="personal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="personal.Designer.cs">
+      <DependentUpon>personal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="planilla.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="planilla.Designer.cs">
+      <DependentUpon>planilla.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -113,17 +155,35 @@
     <EmbeddedResource Include="ausencias.resx">
       <DependentUpon>ausencias.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Causencias.resx">
+      <DependentUpon>Causencias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="datos_nomina.resx">
+      <DependentUpon>datos_nomina.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="departamentos.resx">
       <DependentUpon>departamentos.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="empleados.resx">
       <DependentUpon>empleados.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="gastos.resx">
+      <DependentUpon>gastos.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Login.resx">
       <DependentUpon>Login.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="MDI.resx">
       <DependentUpon>MDI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="nominas.resx">
+      <DependentUpon>nominas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="personal.resx">
+      <DependentUpon>personal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="planilla.resx">
+      <DependentUpon>planilla.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -213,6 +273,24 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Imageness\5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imageness\nominas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imageness\departamentos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imageness\puestos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imageness\empleados.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imageness\datos-nominas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imageness\planilla.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -43,9 +43,21 @@ namespace Software_Industrial
 
         private void button5_Click(object sender, EventArgs e)
         {
-            ausencias au=new ausencias ();
+            ausencias au = new ausencias();
             au.Show();
 
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            nominas n = new nominas();
+            n.Show();
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            personal p = new personal();
+            p.Show();
         }
     }
 }

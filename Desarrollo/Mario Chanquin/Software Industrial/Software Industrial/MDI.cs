@@ -33,5 +33,12 @@ namespace Software_Industrial
             rh.Show();
             
         }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            gastos g = new gastos();
+            g.Show ();
+
+        }
     }
 }

@@ -27,3 +27,106 @@ C:\Users\mario\Desktop\Progracion Softech (16-05-2014)\Primera Presentacion Indi
 C:\Users\mario\Desktop\Progracion Softech (16-05-2014)\Primera Presentacion Individual\Version 1\Programa a partir del MDI\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.tiempo_laborado.resources
 C:\Users\mario\Desktop\Progracion Softech (16-05-2014)\Primera Presentacion Individual\Version 1\Programa a partir del MDI\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.vacaciones.resources
 C:\Users\mario\Desktop\Progracion Softech (16-05-2014)\Primera Presentacion Individual\Version 1\Programa a partir del MDI\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.ausencias.resources
+C:\Users\mario\Desktop\Primera Presentacion\Software\Software Industrial\Software Industrial\bin\Debug\Software Industrial.exe.config
+C:\Users\mario\Desktop\Primera Presentacion\Software\Software Industrial\Software Industrial\obj\Debug\Software Industrial.exe
+C:\Users\mario\Desktop\Primera Presentacion\Software\Software Industrial\Software Industrial\obj\Debug\Software Industrial.pdb
+C:\Users\mario\Desktop\Primera Presentacion\Software\Software Industrial\Software Industrial\bin\Debug\Software Industrial.exe
+C:\Users\mario\Desktop\Primera Presentacion\Software\Software Industrial\Software Industrial\bin\Debug\ODBCConnect.dll
+C:\Users\mario\Desktop\Primera Presentacion\Software\Software Industrial\Software Industrial\obj\Debug\Software Industrial.csprojResolveAssemblyReference.cache
+C:\Users\mario\Desktop\Primera Presentacion\Software\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.ausencias.resources
+C:\Users\mario\Desktop\Primera Presentacion\Software\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.departamentos.resources
+C:\Users\mario\Desktop\Primera Presentacion\Software\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.empleados.resources
+C:\Users\mario\Desktop\Primera Presentacion\Software\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Login.resources
+C:\Users\mario\Desktop\Primera Presentacion\Software\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.MDI.resources
+C:\Users\mario\Desktop\Primera Presentacion\Software\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Properties.Resources.resources
+C:\Users\mario\Desktop\Primera Presentacion\Software\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.puestos.resources
+C:\Users\mario\Desktop\Primera Presentacion\Software\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Recursos_Humanos.resources
+C:\Users\mario\Desktop\Primera Presentacion\Software\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.rrhh.resources
+C:\Users\mario\Desktop\Primera Presentacion\Software\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.tiempo_laborado.resources
+C:\Users\mario\Desktop\Primera Presentacion\Software\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.vacaciones.resources
+C:\Users\mario\Desktop\Primera Presentacion\Software\Software Industrial\Software Industrial\obj\Debug\Software Industrial.csproj.GenerateResource.Cache
+C:\Users\mario\Desktop\Primera Presentacion\Software\Software Industrial\Software Industrial\bin\Debug\Software Industrial.pdb
+C:\Users\mario\Desktop\Segunda Presentacion\Software\Software Industrial\Software Industrial\bin\Debug\Software Industrial.exe.config
+C:\Users\mario\Desktop\Segunda Presentacion\Software\Software Industrial\Software Industrial\obj\Debug\Software Industrial.exe
+C:\Users\mario\Desktop\Segunda Presentacion\Software\Software Industrial\Software Industrial\obj\Debug\Software Industrial.pdb
+C:\Users\mario\Desktop\Segunda Presentacion\Software\Software Industrial\Software Industrial\bin\Debug\Software Industrial.exe
+C:\Users\mario\Desktop\Segunda Presentacion\Software\Software Industrial\Software Industrial\bin\Debug\Software Industrial.pdb
+C:\Users\mario\Desktop\Segunda Presentacion\Software\Software Industrial\Software Industrial\bin\Debug\ODBCConnect.dll
+C:\Users\mario\Desktop\Segunda Presentacion\Software\Software Industrial\Software Industrial\obj\Debug\Software Industrial.csprojResolveAssemblyReference.cache
+C:\Users\mario\Desktop\Segunda Presentacion\Software\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.ausencias.resources
+C:\Users\mario\Desktop\Segunda Presentacion\Software\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.departamentos.resources
+C:\Users\mario\Desktop\Segunda Presentacion\Software\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.empleados.resources
+C:\Users\mario\Desktop\Segunda Presentacion\Software\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Login.resources
+C:\Users\mario\Desktop\Segunda Presentacion\Software\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.MDI.resources
+C:\Users\mario\Desktop\Segunda Presentacion\Software\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Properties.Resources.resources
+C:\Users\mario\Desktop\Segunda Presentacion\Software\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.puestos.resources
+C:\Users\mario\Desktop\Segunda Presentacion\Software\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Recursos_Humanos.resources
+C:\Users\mario\Desktop\Segunda Presentacion\Software\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.rrhh.resources
+C:\Users\mario\Desktop\Segunda Presentacion\Software\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.tiempo_laborado.resources
+C:\Users\mario\Desktop\Segunda Presentacion\Software\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.vacaciones.resources
+C:\Users\mario\Desktop\Segunda Presentacion\Software\Software Industrial\Software Industrial\obj\Debug\Software Industrial.csproj.GenerateResource.Cache
+C:\Users\mario\Desktop\Segunda Presentacion\Software\Software Industrial\Software Industrial\bin\Debug\Navegador.dll
+C:\Users\mario\Desktop\Segunda Presentacion\Software\Software Industrial\Software Industrial\bin\Debug\BitacoraErrores.dll
+C:\Users\mario\Desktop\Segunda Presentacion\Software\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Causencias.resources
+C:\Users\mario\Desktop\Segunda Presentacion\Software\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.datos_nomina.resources
+C:\Users\mario\Desktop\Segunda Presentacion\Software\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.nominas.resources
+C:\Users\mario\Desktop\Segunda Presentacion\Software\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.planilla.resources
+C:\Users\mario\Desktop\Segunda Presentacion\Software\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.personal.resources
+C:\Users\mario\Desktop\Segunda Presentacion\Software\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.gastos.resources
+C:\Users\mario\Desktop\Tercera Presentacion\Software\Software Industrial\Software Industrial\bin\Debug\Software Industrial.exe.config
+C:\Users\mario\Desktop\Tercera Presentacion\Software\Software Industrial\Software Industrial\obj\Debug\Software Industrial.exe
+C:\Users\mario\Desktop\Tercera Presentacion\Software\Software Industrial\Software Industrial\obj\Debug\Software Industrial.pdb
+C:\Users\WalterIvan\Documents\Visual Studio 2013\Projects\Software\Software Industrial\Software Industrial\bin\Debug\Software Industrial.exe.config
+C:\Users\WalterIvan\Documents\Visual Studio 2013\Projects\Software\Software Industrial\Software Industrial\obj\Debug\Software Industrial.exe
+C:\Users\WalterIvan\Documents\Visual Studio 2013\Projects\Software\Software Industrial\Software Industrial\obj\Debug\Software Industrial.pdb
+C:\Users\WalterIvan\Documents\Visual Studio 2013\Projects\Software\Software Industrial\Software Industrial\bin\Debug\Software Industrial.exe
+C:\Users\WalterIvan\Documents\Visual Studio 2013\Projects\Software\Software Industrial\Software Industrial\bin\Debug\Software Industrial.pdb
+C:\Users\WalterIvan\Documents\Visual Studio 2013\Projects\Software\Software Industrial\Software Industrial\bin\Debug\BitacoraErrores.dll
+C:\Users\WalterIvan\Documents\Visual Studio 2013\Projects\Software\Software Industrial\Software Industrial\bin\Debug\Navegador.dll
+C:\Users\WalterIvan\Documents\Visual Studio 2013\Projects\Software\Software Industrial\Software Industrial\bin\Debug\ODBCConnect.dll
+C:\Users\WalterIvan\Documents\Visual Studio 2013\Projects\Software\Software Industrial\Software Industrial\obj\Debug\Software Industrial.csprojResolveAssemblyReference.cache
+C:\Users\WalterIvan\Documents\Visual Studio 2013\Projects\Software\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.ausencias.resources
+C:\Users\WalterIvan\Documents\Visual Studio 2013\Projects\Software\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Causencias.resources
+C:\Users\WalterIvan\Documents\Visual Studio 2013\Projects\Software\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.datos_nomina.resources
+C:\Users\WalterIvan\Documents\Visual Studio 2013\Projects\Software\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.departamentos.resources
+C:\Users\WalterIvan\Documents\Visual Studio 2013\Projects\Software\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.empleados.resources
+C:\Users\WalterIvan\Documents\Visual Studio 2013\Projects\Software\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.gastos.resources
+C:\Users\WalterIvan\Documents\Visual Studio 2013\Projects\Software\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Login.resources
+C:\Users\WalterIvan\Documents\Visual Studio 2013\Projects\Software\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.MDI.resources
+C:\Users\WalterIvan\Documents\Visual Studio 2013\Projects\Software\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.nominas.resources
+C:\Users\WalterIvan\Documents\Visual Studio 2013\Projects\Software\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.personal.resources
+C:\Users\WalterIvan\Documents\Visual Studio 2013\Projects\Software\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.planilla.resources
+C:\Users\WalterIvan\Documents\Visual Studio 2013\Projects\Software\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Properties.Resources.resources
+C:\Users\WalterIvan\Documents\Visual Studio 2013\Projects\Software\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.puestos.resources
+C:\Users\WalterIvan\Documents\Visual Studio 2013\Projects\Software\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Recursos_Humanos.resources
+C:\Users\WalterIvan\Documents\Visual Studio 2013\Projects\Software\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.rrhh.resources
+C:\Users\WalterIvan\Documents\Visual Studio 2013\Projects\Software\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.tiempo_laborado.resources
+C:\Users\WalterIvan\Documents\Visual Studio 2013\Projects\Software\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.vacaciones.resources
+C:\Users\WalterIvan\Documents\Visual Studio 2013\Projects\Software\Software Industrial\Software Industrial\obj\Debug\Software Industrial.csproj.GenerateResource.Cache
+C:\Users\mario\Desktop\Cuarta Presentacion\Software\Software Industrial\Software Industrial\bin\Debug\Software Industrial.exe.config
+C:\Users\mario\Desktop\Cuarta Presentacion\Software\Software Industrial\Software Industrial\obj\Debug\Software Industrial.exe
+C:\Users\mario\Desktop\Cuarta Presentacion\Software\Software Industrial\Software Industrial\obj\Debug\Software Industrial.pdb
+C:\Users\mario\Desktop\Cuarta Presentacion\Software\Software Industrial\Software Industrial\bin\Debug\Software Industrial.exe
+C:\Users\mario\Desktop\Cuarta Presentacion\Software\Software Industrial\Software Industrial\bin\Debug\Software Industrial.pdb
+C:\Users\mario\Desktop\Cuarta Presentacion\Software\Software Industrial\Software Industrial\bin\Debug\BitacoraErrores.dll
+C:\Users\mario\Desktop\Cuarta Presentacion\Software\Software Industrial\Software Industrial\bin\Debug\Navegador.dll
+C:\Users\mario\Desktop\Cuarta Presentacion\Software\Software Industrial\Software Industrial\bin\Debug\ODBCConnect.dll
+C:\Users\mario\Desktop\Cuarta Presentacion\Software\Software Industrial\Software Industrial\obj\Debug\Software Industrial.csprojResolveAssemblyReference.cache
+C:\Users\mario\Desktop\Cuarta Presentacion\Software\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.ausencias.resources
+C:\Users\mario\Desktop\Cuarta Presentacion\Software\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Causencias.resources
+C:\Users\mario\Desktop\Cuarta Presentacion\Software\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.datos_nomina.resources
+C:\Users\mario\Desktop\Cuarta Presentacion\Software\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.departamentos.resources
+C:\Users\mario\Desktop\Cuarta Presentacion\Software\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.empleados.resources
+C:\Users\mario\Desktop\Cuarta Presentacion\Software\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.gastos.resources
+C:\Users\mario\Desktop\Cuarta Presentacion\Software\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Login.resources
+C:\Users\mario\Desktop\Cuarta Presentacion\Software\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.MDI.resources
+C:\Users\mario\Desktop\Cuarta Presentacion\Software\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.nominas.resources
+C:\Users\mario\Desktop\Cuarta Presentacion\Software\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.personal.resources
+C:\Users\mario\Desktop\Cuarta Presentacion\Software\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.planilla.resources
+C:\Users\mario\Desktop\Cuarta Presentacion\Software\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Properties.Resources.resources
+C:\Users\mario\Desktop\Cuarta Presentacion\Software\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.puestos.resources
+C:\Users\mario\Desktop\Cuarta Presentacion\Software\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Recursos_Humanos.resources
+C:\Users\mario\Desktop\Cuarta Presentacion\Software\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.rrhh.resources
+C:\Users\mario\Desktop\Cuarta Presentacion\Software\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.tiempo_laborado.resources
+C:\Users\mario\Desktop\Cuarta Presentacion\Software\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.vacaciones.resources
+C:\Users\mario\Desktop\Cuarta Presentacion\Software\Software Industrial\Software Industrial\obj\Debug\Software Industrial.csproj.GenerateResource.Cache

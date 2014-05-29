@@ -19,164 +19,202 @@ namespace Software_Industrial
         }
 
         DBConnect db = new DBConnect("recursos_humanos");
-        bool editar = false;
-        string id;
+        bool editar = false, nuevo = false, cambio = false;
+        int id = 0;
+
+
+
+        private void barra1_click_nuevo_button()
+        {
+            textBox1.Enabled = true;
+            textBox2.Enabled = true;
+            textBox3.Enabled = true;
+            textBox4.Enabled = true;
+            textBox5.Enabled = true;
+            textBox6.Enabled = true;
+            textBox7.Enabled = true;
+            textBox8.Enabled = true;
+            textBox9.Enabled = true;
+            textBox10.Enabled = true;
+            textBox11.Enabled = true;
+            
+            textBox1.Focus();
+            nuevo = true;
+            editar = false;
+        }
+
+
+
+
 
         private void empleados_Load(object sender, EventArgs e)
         {
-            dg_registrodeempleado.DataSource = db.consulta_DataGridView("select *from tbempleado");
-            this.dg_registrodeempleado.Columns[0].Visible = false; // llena consulta de cuentas dataGridView2.DataSource = db.consulta_DataGridView("SELECT * FROM tbt_cuentas_bancarias;");
-
-            idpuesto_cmb.DataSource = db.consulta_ComboBox("select tbPuesto_id from tbPuesto;");
-            idpuesto_cmb.DisplayMember = "tbPuesto_id";
-            idpuesto_cmb.ValueMember = "tbPuesto_id";
-
-            idcomisiones_cmb.DataSource = db.consulta_ComboBox("select tbdepto_id from tbdepto;");
-            idcomisiones_cmb.DisplayMember = "tbdepto_id";
-            idcomisiones_cmb.ValueMember = "tbdepto_id";
-
-           
-        }
             
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-            nombre_text.ReadOnly = false;
-            apellido_text.ReadOnly = false;
-            segurosocial_text.ReadOnly = false;
-            licencia_text.ReadOnly = false;
-            edad_text.ReadOnly = false;
-            genero_text.ReadOnly = false;
-            nacionalidad_text.ReadOnly = false;
-            telefono_text.ReadOnly = false;
-            dpi_text.ReadOnly = false;
-            estadocivil_text.ReadOnly = false;
-            direccion_text.ReadOnly = false;
-            sueldo_text.ReadOnly = false;
-        }
-
-        private void textBox7_TextChanged(object sender, EventArgs e)
-        {
+            consulta();
 
         }
 
-        private void button3_Click(object sender, EventArgs e)
-        {
-            editar = true;
-            nombre_text.ReadOnly = false;
-            apellido_text.ReadOnly = false;
-            segurosocial_text.ReadOnly = false;
-            licencia_text.ReadOnly = false;
-            edad_text.ReadOnly = false;
-            genero_text.ReadOnly = false;
-            nacionalidad_text.ReadOnly = false;
-            telefono_text.ReadOnly = false;
-            dpi_text.ReadOnly = false;
-            estadocivil_text.ReadOnly = false;
-            direccion_text.ReadOnly = false;
-            sueldo_text.ReadOnly = false;
-            int i = dg_registrodeempleado.CurrentRow.Index;
-            id = dg_registrodeempleado.Rows[i].Cells[0].Value.ToString();
-            nombre_text.Text = dg_registrodeempleado.Rows[i].Cells[1].Value.ToString();
-            apellido_text.Text = dg_registrodeempleado.Rows[i].Cells[2].Value.ToString();
-            segurosocial_text.Text = dg_registrodeempleado.Rows[i].Cells[3].Value.ToString();
-            licencia_text.Text = dg_registrodeempleado.Rows[i].Cells[4].Value.ToString();
-            edad_text.Text = dg_registrodeempleado.Rows[i].Cells[5].Value.ToString();
-            genero_text.Text = dg_registrodeempleado.Rows[i].Cells[6].Value.ToString();
-            nacionalidad_text.Text = dg_registrodeempleado.Rows[i].Cells[7].Value.ToString();
-            telefono_text.Text = dg_registrodeempleado.Rows[i].Cells[8].Value.ToString();
-            dpi_text.Text = dg_registrodeempleado.Rows[i].Cells[9].Value.ToString();
-            estadocivil_text.Text = dg_registrodeempleado.Rows[i].Cells[10].Value.ToString();
-            direccion_text.Text = dg_registrodeempleado.Rows[i].Cells[11].Value.ToString();
-            sueldo_text.Text = dg_registrodeempleado.Rows[i].Cells[12].Value.ToString();
-        }
+     
 
-        private void button4_Click(object sender, EventArgs e)
+        private void barra1_click_guardar_button()
         {
-            int i = dg_registrodeempleado.CurrentRow.Index;
-            id = dg_registrodeempleado.Rows[i].Cells[0].Value.ToString();
+            string tabla = "tbempleado";
+            Dictionary<string, string> dict = new Dictionary<string, string>();
+            dict.Add("nomemple", textBox1.Text);
+            dict.Add("apellemple", textBox2.Text);
 
-            DialogResult dialogResult = MessageBox.Show("ESTA SEGURO QUE DESEA ELIMINAR EL DATO", "ELIMINACION DE DATO", MessageBoxButtons.YesNo);
-            if (dialogResult == DialogResult.Yes)
+            dict.Add("dpi", textBox3.Text);
+                dict.Add("edad", textBox4.Text);
+                    dict.Add("genero", textBox5.Text);
+                        dict.Add("nacionalidad", textBox6.Text);
+                            dict.Add("estadocivil", textBox7.Text);
+                                dict.Add("tel", textBox8.Text);
+                                    dict.Add("direc", textBox9.Text);
+                                        dict.Add("nosegsocial", textBox10.Text);
+                                        dict.Add("licencia", textBox11.Text);
+
+            if (nuevo) 
             {
-                string condicion = "tbempleado_idemple=" + id;
-                db.eliminar("tbempleado", condicion);
-                dg_registrodeempleado.DataSource = db.consulta_DataGridView("select *from tbempleado");
-
-            }
-            else if (dialogResult == DialogResult.No)
-            {
-
-            }
-
-            
-        }
-
-        private void button2_Click(object sender, EventArgs e)
-        {
-            if (nombre_text.ReadOnly == false)
-            {
-                string tabla = "tbempleado";
-                Dictionary<string, string> dict = new Dictionary<string, string>();
-                dict.Add("tbempleado_nome", nombre_text.Text);
-                dict.Add("tbempleado_apellemple", apellido_text.Text);
-                dict.Add("tbempleado_dpi", dpi_text.Text);
-                dict.Add("tbempleado_edad", edad_text.Text);
-                dict.Add("tbempleado_genero", genero_text.Text);
-                dict.Add("tbempleado_nacionalidad", nacionalidad_text.Text);
-                dict.Add("tbempleado_estadocivil", estadocivil_text.Text);
-                dict.Add("tbempleado_tel", telefono_text.Text);
-                dict.Add("tbempleado_direc", direccion_text.Text);
-                dict.Add("tbempleado_noSegSocial", segurosocial_text.Text);
-                dict.Add("tbempleado_licencia", licencia_text.Text);
-                dict.Add("tbempleado_sueldo", sueldo_text.Text);
-                dict.Add("tbPuesto_tbPuesto_id", idpuesto_cmb.SelectedValue.ToString());
-                dict.Add("tbdepto_tbdepto_id", idcomisiones_cmb.SelectedValue.ToString());
-                
                 db.insertar(tabla, dict);
+                nuevo = false;
+                consulta();
+                limpiar();
+            }
+            if (editar)
+            {
+                db.actualizar(tabla, dict, "idemple=" + id);
+                editar = false;
+                consulta();
+                limpiar();
+            }
+        }
+
+
+        private void consulta()
+        {
+            empleado_dgw.DataSource = db.consulta_DataGridView("select *from tbempleado");
+        }
+
+        private void limpiar()
+        {
+            textBox1.Text = "";
+            textBox2.Text = "";
+            textBox3.Text = "";
+            textBox4.Text = "";
+            textBox5.Text = "";
+            textBox6.Text = "";
+            textBox7.Text = "";
+            textBox8.Text = "";
+            textBox9.Text = "";
+            textBox10.Text = "";
+            textBox11.Text = "";
+
+            textBox1.Enabled = false;
+            textBox2.Enabled = false;
+            textBox3.Enabled = false;
+            textBox4.Enabled = false;
+            textBox5.Enabled = false;
+            textBox6.Enabled = false;
+            textBox7.Enabled = false;
+            textBox8.Enabled = false;
+            textBox9.Enabled = false;
+            textBox10.Enabled = false;
+            textBox11.Enabled = false;
+            
+        }
+
+        
+
+        private void barra1_click_editar_button()
+        {
+            if (cambio)
+            {
+                nuevo = false;
+                int k = empleado_dgw.CurrentRow.Index;
+                id = Convert.ToInt32(empleado_dgw.Rows[k].Cells[0].Value);
+                textBox1.Text = empleado_dgw.Rows[k].Cells[1].Value.ToString();
+                textBox2.Text = empleado_dgw.Rows[k].Cells[2].Value.ToString();
+
+                textBox3.Text = empleado_dgw.Rows[k].Cells[3].Value.ToString();
+                textBox4.Text = empleado_dgw.Rows[k].Cells[4].Value.ToString();
+                textBox5.Text = empleado_dgw.Rows[k].Cells[5].Value.ToString();
+                textBox6.Text = empleado_dgw.Rows[k].Cells[6].Value.ToString();
+                textBox7.Text = empleado_dgw.Rows[k].Cells[7].Value.ToString();
+                textBox8.Text = empleado_dgw.Rows[k].Cells[8].Value.ToString();
+                textBox9.Text = empleado_dgw.Rows[k].Cells[9].Value.ToString();
+                textBox10.Text = empleado_dgw.Rows[k].Cells[10].Value.ToString();
+                textBox11.Text = empleado_dgw.Rows[k].Cells[11].Value.ToString();
                
 
-                if (editar)
-                {
-                    db.actualizar("tbempleado", dict, "tbempleado_idemple=" + id);
-                    editar = false;
-                }
-                else
-                {
-                    db.insertar("tbempleado", dict);
-                }
 
-                dg_registrodeempleado.DataSource = db.consulta_DataGridView("select *from tbempleado");
-            }
-            else
-            {
-                MessageBox.Show("Debe precionar la opcion nuevo");
-            }
-            nombre_text.Text = "";
-            nombre_text.ReadOnly = true;
-            apellido_text.Text = "";
-            apellido_text.ReadOnly = true;
-            segurosocial_text.Text = "";
-            segurosocial_text.ReadOnly = true;
-            licencia_text.Text = "";
-            licencia_text.ReadOnly = true;
-            edad_text.Text = "";
-            edad_text.ReadOnly = true;
-            genero_text.Text = "";
-            genero_text.ReadOnly = true;
-            nacionalidad_text.Text = "";
-            nacionalidad_text.ReadOnly = true;
-            telefono_text.Text = "";
-            telefono_text.ReadOnly = true;
-            dpi_text.Text = "";
-            dpi_text.ReadOnly = true;
-            estadocivil_text.Text = "";
-            estadocivil_text.ReadOnly = true;
-            direccion_text.Text = "";
-            direccion_text.ReadOnly = true;
+                textBox1.Enabled = true;
+                textBox2.Enabled = true;
+                textBox3.Enabled = true;
+                textBox4.Enabled = true;
+                textBox5.Enabled = true;
+                textBox6.Enabled = true;
+                textBox7.Enabled = true;
+                textBox8.Enabled = true;
+                textBox9.Enabled = true;
+                textBox10.Enabled = true;
+                textBox11.Enabled = true;
+                
 
-            //manejo de cuentas
+                editar = true;
+            }
         }
+
+
+
+
+
+        private void empleado_dgw_SelectionChanged(object sender, EventArgs e)
+        {
+            cambio = true;
+        }
+
+        private void barra1_click_buscar_button()
+        {
+            consulta();
+        }
+
+        private void barra1_click_eliminar_button()
+        {
+            if (cambio)
+            {
+                int k = empleado_dgw.CurrentRow.Index;
+                id = Convert.ToInt32(empleado_dgw.Rows[k].Cells[0].Value);
+                if(MessageBox.Show("Desea eliminar el registro", "Eliminar",MessageBoxButtons.YesNo)==DialogResult.Yes)
+                {
+                    db.eliminar("tbempleado", "idemple=" + id);
+                    consulta();
+                }
+            }
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label12_Click(object sender, EventArgs e)
+        {
             
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     }
 }

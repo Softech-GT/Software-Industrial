@@ -28,471 +28,371 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle4 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle5 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle6 = new System.Windows.Forms.DataGridViewCellStyle();
-            this.button4 = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
-            this.button1 = new System.Windows.Forms.Button();
-            this.sueldo_text = new System.Windows.Forms.TextBox();
-            this.lbl_sueldo = new System.Windows.Forms.Label();
-            this.idcomisiones_cmb = new System.Windows.Forms.ComboBox();
-            this.lbl_idcomisiones = new System.Windows.Forms.Label();
-            this.lbl_idpuesto = new System.Windows.Forms.Label();
-            this.idpuesto_cmb = new System.Windows.Forms.ComboBox();
-            this.licencia_text = new System.Windows.Forms.TextBox();
-            this.lbl_licencia = new System.Windows.Forms.Label();
-            this.segurosocial_text = new System.Windows.Forms.TextBox();
-            this.lbl_segurosocial = new System.Windows.Forms.Label();
-            this.direccion_text = new System.Windows.Forms.TextBox();
-            this.estadocivil_text = new System.Windows.Forms.TextBox();
-            this.dpi_text = new System.Windows.Forms.TextBox();
-            this.telefono_text = new System.Windows.Forms.TextBox();
-            this.nacionalidad_text = new System.Windows.Forms.TextBox();
-            this.lbl_dpi = new System.Windows.Forms.Label();
-            this.lbl_direccion = new System.Windows.Forms.Label();
-            this.lbl_telefono = new System.Windows.Forms.Label();
-            this.lbl_estadocivil = new System.Windows.Forms.Label();
-            this.lbl_nacionalidad = new System.Windows.Forms.Label();
-            this.genero_text = new System.Windows.Forms.TextBox();
-            this.edad_text = new System.Windows.Forms.TextBox();
-            this.lbl_edad = new System.Windows.Forms.Label();
-            this.lbl_genero = new System.Windows.Forms.Label();
-            this.lbl_nombre = new System.Windows.Forms.Label();
-            this.nombre_text = new System.Windows.Forms.TextBox();
-            this.lbl_apellido = new System.Windows.Forms.Label();
-            this.apellido_text = new System.Windows.Forms.TextBox();
-            this.dg_registrodeempleado = new System.Windows.Forms.DataGridView();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            ((System.ComponentModel.ISupportInitialize)(this.dg_registrodeempleado)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.textBox3 = new System.Windows.Forms.TextBox();
+            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.textBox4 = new System.Windows.Forms.TextBox();
+            this.textBox5 = new System.Windows.Forms.TextBox();
+            this.textBox6 = new System.Windows.Forms.TextBox();
+            this.textBox7 = new System.Windows.Forms.TextBox();
+            this.textBox8 = new System.Windows.Forms.TextBox();
+            this.textBox9 = new System.Windows.Forms.TextBox();
+            this.textBox10 = new System.Windows.Forms.TextBox();
+            this.textBox11 = new System.Windows.Forms.TextBox();
+            this.empleado_dgw = new System.Windows.Forms.DataGridView();
+            this.barra1 = new Navegador.Barra();
+            this.tabControl1 = new System.Windows.Forms.TabControl();
+            this.tabPage1 = new System.Windows.Forms.TabPage();
+            this.label12 = new System.Windows.Forms.Label();
+            this.label11 = new System.Windows.Forms.Label();
+            this.label10 = new System.Windows.Forms.Label();
+            this.label9 = new System.Windows.Forms.Label();
+            this.label8 = new System.Windows.Forms.Label();
+            this.label7 = new System.Windows.Forms.Label();
+            this.label6 = new System.Windows.Forms.Label();
+            this.label5 = new System.Windows.Forms.Label();
+            this.label4 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
+            this.tabPage2 = new System.Windows.Forms.TabPage();
+            ((System.ComponentModel.ISupportInitialize)(this.empleado_dgw)).BeginInit();
+            this.tabControl1.SuspendLayout();
+            this.tabPage1.SuspendLayout();
+            this.tabPage2.SuspendLayout();
             this.SuspendLayout();
             // 
-            // button4
-            // 
-            this.button4.Location = new System.Drawing.Point(287, 78);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(75, 38);
-            this.button4.TabIndex = 34;
-            this.button4.Text = "Eliminar";
-            this.button4.UseVisualStyleBackColor = true;
-            this.button4.Click += new System.EventHandler(this.button4_Click);
-            // 
-            // button3
-            // 
-            this.button3.Location = new System.Drawing.Point(206, 78);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(75, 38);
-            this.button3.TabIndex = 33;
-            this.button3.Text = "Editar";
-            this.button3.UseVisualStyleBackColor = true;
-            this.button3.Click += new System.EventHandler(this.button3_Click);
-            // 
-            // button2
-            // 
-            this.button2.Location = new System.Drawing.Point(120, 78);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(80, 38);
-            this.button2.TabIndex = 32;
-            this.button2.Text = "Guardar";
-            this.button2.UseVisualStyleBackColor = true;
-            this.button2.Click += new System.EventHandler(this.button2_Click);
-            // 
-            // button1
-            // 
-            this.button1.Location = new System.Drawing.Point(34, 78);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(80, 38);
-            this.button1.TabIndex = 31;
-            this.button1.Text = "Nuevo";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
-            // 
-            // sueldo_text
-            // 
-            this.sueldo_text.Location = new System.Drawing.Point(120, 297);
-            this.sueldo_text.Name = "sueldo_text";
-            this.sueldo_text.ReadOnly = true;
-            this.sueldo_text.Size = new System.Drawing.Size(238, 20);
-            this.sueldo_text.TabIndex = 99;
-            // 
-            // lbl_sueldo
-            // 
-            this.lbl_sueldo.AutoSize = true;
-            this.lbl_sueldo.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbl_sueldo.Location = new System.Drawing.Point(27, 302);
-            this.lbl_sueldo.Name = "lbl_sueldo";
-            this.lbl_sueldo.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.lbl_sueldo.Size = new System.Drawing.Size(52, 15);
-            this.lbl_sueldo.TabIndex = 98;
-            this.lbl_sueldo.Text = "Sueldo";
-            // 
-            // idcomisiones_cmb
-            // 
-            this.idcomisiones_cmb.FormattingEnabled = true;
-            this.idcomisiones_cmb.Location = new System.Drawing.Point(513, 298);
-            this.idcomisiones_cmb.Name = "idcomisiones_cmb";
-            this.idcomisiones_cmb.Size = new System.Drawing.Size(238, 21);
-            this.idcomisiones_cmb.TabIndex = 95;
-            // 
-            // lbl_idcomisiones
-            // 
-            this.lbl_idcomisiones.AutoSize = true;
-            this.lbl_idcomisiones.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbl_idcomisiones.Location = new System.Drawing.Point(398, 304);
-            this.lbl_idcomisiones.Name = "lbl_idcomisiones";
-            this.lbl_idcomisiones.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.lbl_idcomisiones.Size = new System.Drawing.Size(116, 15);
-            this.lbl_idcomisiones.TabIndex = 92;
-            this.lbl_idcomisiones.Text = "ID Departamento";
-            // 
-            // lbl_idpuesto
-            // 
-            this.lbl_idpuesto.AutoSize = true;
-            this.lbl_idpuesto.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbl_idpuesto.Location = new System.Drawing.Point(398, 277);
-            this.lbl_idpuesto.Name = "lbl_idpuesto";
-            this.lbl_idpuesto.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.lbl_idpuesto.Size = new System.Drawing.Size(69, 15);
-            this.lbl_idpuesto.TabIndex = 91;
-            this.lbl_idpuesto.Text = "ID Puesto";
-            // 
-            // idpuesto_cmb
-            // 
-            this.idpuesto_cmb.FormattingEnabled = true;
-            this.idpuesto_cmb.Location = new System.Drawing.Point(513, 271);
-            this.idpuesto_cmb.Name = "idpuesto_cmb";
-            this.idpuesto_cmb.Size = new System.Drawing.Size(238, 21);
-            this.idpuesto_cmb.TabIndex = 90;
-            // 
-            // licencia_text
-            // 
-            this.licencia_text.Location = new System.Drawing.Point(513, 245);
-            this.licencia_text.Name = "licencia_text";
-            this.licencia_text.ReadOnly = true;
-            this.licencia_text.Size = new System.Drawing.Size(238, 20);
-            this.licencia_text.TabIndex = 89;
-            // 
-            // lbl_licencia
-            // 
-            this.lbl_licencia.AutoSize = true;
-            this.lbl_licencia.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbl_licencia.Location = new System.Drawing.Point(398, 250);
-            this.lbl_licencia.Name = "lbl_licencia";
-            this.lbl_licencia.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.lbl_licencia.Size = new System.Drawing.Size(61, 15);
-            this.lbl_licencia.TabIndex = 88;
-            this.lbl_licencia.Text = "Licencia";
-            // 
-            // segurosocial_text
-            // 
-            this.segurosocial_text.Location = new System.Drawing.Point(513, 219);
-            this.segurosocial_text.Name = "segurosocial_text";
-            this.segurosocial_text.ReadOnly = true;
-            this.segurosocial_text.Size = new System.Drawing.Size(238, 20);
-            this.segurosocial_text.TabIndex = 87;
-            // 
-            // lbl_segurosocial
-            // 
-            this.lbl_segurosocial.AutoSize = true;
-            this.lbl_segurosocial.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbl_segurosocial.Location = new System.Drawing.Point(398, 224);
-            this.lbl_segurosocial.Name = "lbl_segurosocial";
-            this.lbl_segurosocial.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.lbl_segurosocial.Size = new System.Drawing.Size(97, 15);
-            this.lbl_segurosocial.TabIndex = 86;
-            this.lbl_segurosocial.Text = "Seguro Social";
-            // 
-            // direccion_text
-            // 
-            this.direccion_text.Location = new System.Drawing.Point(513, 193);
-            this.direccion_text.Name = "direccion_text";
-            this.direccion_text.ReadOnly = true;
-            this.direccion_text.Size = new System.Drawing.Size(238, 20);
-            this.direccion_text.TabIndex = 85;
-            // 
-            // estadocivil_text
-            // 
-            this.estadocivil_text.Location = new System.Drawing.Point(513, 167);
-            this.estadocivil_text.Name = "estadocivil_text";
-            this.estadocivil_text.ReadOnly = true;
-            this.estadocivil_text.Size = new System.Drawing.Size(238, 20);
-            this.estadocivil_text.TabIndex = 84;
-            // 
-            // dpi_text
-            // 
-            this.dpi_text.Location = new System.Drawing.Point(120, 271);
-            this.dpi_text.Name = "dpi_text";
-            this.dpi_text.ReadOnly = true;
-            this.dpi_text.Size = new System.Drawing.Size(238, 20);
-            this.dpi_text.TabIndex = 83;
-            // 
-            // telefono_text
-            // 
-            this.telefono_text.Location = new System.Drawing.Point(120, 245);
-            this.telefono_text.Name = "telefono_text";
-            this.telefono_text.ReadOnly = true;
-            this.telefono_text.Size = new System.Drawing.Size(238, 20);
-            this.telefono_text.TabIndex = 82;
-            // 
-            // nacionalidad_text
-            // 
-            this.nacionalidad_text.Location = new System.Drawing.Point(120, 219);
-            this.nacionalidad_text.Name = "nacionalidad_text";
-            this.nacionalidad_text.ReadOnly = true;
-            this.nacionalidad_text.Size = new System.Drawing.Size(238, 20);
-            this.nacionalidad_text.TabIndex = 81;
-            // 
-            // lbl_dpi
-            // 
-            this.lbl_dpi.AutoSize = true;
-            this.lbl_dpi.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbl_dpi.Location = new System.Drawing.Point(27, 276);
-            this.lbl_dpi.Name = "lbl_dpi";
-            this.lbl_dpi.Size = new System.Drawing.Size(30, 15);
-            this.lbl_dpi.TabIndex = 80;
-            this.lbl_dpi.Text = "DPI";
-            // 
-            // lbl_direccion
-            // 
-            this.lbl_direccion.AutoSize = true;
-            this.lbl_direccion.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbl_direccion.Location = new System.Drawing.Point(398, 198);
-            this.lbl_direccion.Name = "lbl_direccion";
-            this.lbl_direccion.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.lbl_direccion.Size = new System.Drawing.Size(68, 15);
-            this.lbl_direccion.TabIndex = 79;
-            this.lbl_direccion.Text = "Dirección";
-            // 
-            // lbl_telefono
-            // 
-            this.lbl_telefono.AutoSize = true;
-            this.lbl_telefono.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbl_telefono.Location = new System.Drawing.Point(27, 250);
-            this.lbl_telefono.Name = "lbl_telefono";
-            this.lbl_telefono.Size = new System.Drawing.Size(63, 15);
-            this.lbl_telefono.TabIndex = 78;
-            this.lbl_telefono.Text = "Telefono";
-            // 
-            // lbl_estadocivil
-            // 
-            this.lbl_estadocivil.AutoSize = true;
-            this.lbl_estadocivil.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbl_estadocivil.Location = new System.Drawing.Point(398, 172);
-            this.lbl_estadocivil.Name = "lbl_estadocivil";
-            this.lbl_estadocivil.Size = new System.Drawing.Size(82, 15);
-            this.lbl_estadocivil.TabIndex = 77;
-            this.lbl_estadocivil.Text = "Estado Civil";
-            // 
-            // lbl_nacionalidad
-            // 
-            this.lbl_nacionalidad.AutoSize = true;
-            this.lbl_nacionalidad.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbl_nacionalidad.Location = new System.Drawing.Point(27, 224);
-            this.lbl_nacionalidad.Name = "lbl_nacionalidad";
-            this.lbl_nacionalidad.Size = new System.Drawing.Size(92, 15);
-            this.lbl_nacionalidad.TabIndex = 76;
-            this.lbl_nacionalidad.Text = "Nacionalidad";
-            // 
-            // genero_text
-            // 
-            this.genero_text.Location = new System.Drawing.Point(513, 141);
-            this.genero_text.Name = "genero_text";
-            this.genero_text.ReadOnly = true;
-            this.genero_text.Size = new System.Drawing.Size(238, 20);
-            this.genero_text.TabIndex = 75;
-            // 
-            // edad_text
-            // 
-            this.edad_text.Location = new System.Drawing.Point(120, 193);
-            this.edad_text.Name = "edad_text";
-            this.edad_text.ReadOnly = true;
-            this.edad_text.Size = new System.Drawing.Size(238, 20);
-            this.edad_text.TabIndex = 74;
-            // 
-            // lbl_edad
-            // 
-            this.lbl_edad.AutoSize = true;
-            this.lbl_edad.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbl_edad.Location = new System.Drawing.Point(27, 197);
-            this.lbl_edad.Name = "lbl_edad";
-            this.lbl_edad.Size = new System.Drawing.Size(40, 15);
-            this.lbl_edad.TabIndex = 73;
-            this.lbl_edad.Text = "Edad";
-            // 
-            // lbl_genero
-            // 
-            this.lbl_genero.AutoSize = true;
-            this.lbl_genero.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbl_genero.Location = new System.Drawing.Point(398, 146);
-            this.lbl_genero.Name = "lbl_genero";
-            this.lbl_genero.Size = new System.Drawing.Size(54, 15);
-            this.lbl_genero.TabIndex = 72;
-            this.lbl_genero.Text = "Gènero";
-            // 
-            // lbl_nombre
-            // 
-            this.lbl_nombre.AutoSize = true;
-            this.lbl_nombre.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbl_nombre.Location = new System.Drawing.Point(27, 146);
-            this.lbl_nombre.Name = "lbl_nombre";
-            this.lbl_nombre.Size = new System.Drawing.Size(58, 15);
-            this.lbl_nombre.TabIndex = 70;
-            this.lbl_nombre.Text = "Nombre";
-            // 
-            // nombre_text
-            // 
-            this.nombre_text.Location = new System.Drawing.Point(120, 141);
-            this.nombre_text.Name = "nombre_text";
-            this.nombre_text.ReadOnly = true;
-            this.nombre_text.Size = new System.Drawing.Size(238, 20);
-            this.nombre_text.TabIndex = 68;
-            // 
-            // lbl_apellido
-            // 
-            this.lbl_apellido.AutoSize = true;
-            this.lbl_apellido.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbl_apellido.Location = new System.Drawing.Point(27, 172);
-            this.lbl_apellido.Name = "lbl_apellido";
-            this.lbl_apellido.Size = new System.Drawing.Size(59, 15);
-            this.lbl_apellido.TabIndex = 71;
-            this.lbl_apellido.Text = "Apellido";
-            // 
-            // apellido_text
-            // 
-            this.apellido_text.Location = new System.Drawing.Point(120, 167);
-            this.apellido_text.Name = "apellido_text";
-            this.apellido_text.ReadOnly = true;
-            this.apellido_text.Size = new System.Drawing.Size(238, 20);
-            this.apellido_text.TabIndex = 69;
-            // 
-            // dg_registrodeempleado
-            // 
-            dataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle4.BackColor = System.Drawing.SystemColors.Control;
-            dataGridViewCellStyle4.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle4.ForeColor = System.Drawing.SystemColors.WindowText;
-            dataGridViewCellStyle4.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle4.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle4.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.dg_registrodeempleado.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle4;
-            this.dg_registrodeempleado.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridViewCellStyle5.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle5.BackColor = System.Drawing.SystemColors.Window;
-            dataGridViewCellStyle5.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle5.ForeColor = System.Drawing.SystemColors.ControlText;
-            dataGridViewCellStyle5.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle5.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle5.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
-            this.dg_registrodeempleado.DefaultCellStyle = dataGridViewCellStyle5;
-            this.dg_registrodeempleado.Location = new System.Drawing.Point(30, 337);
-            this.dg_registrodeempleado.Name = "dg_registrodeempleado";
-            dataGridViewCellStyle6.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle6.BackColor = System.Drawing.SystemColors.Control;
-            dataGridViewCellStyle6.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle6.ForeColor = System.Drawing.SystemColors.WindowText;
-            dataGridViewCellStyle6.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle6.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle6.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.dg_registrodeempleado.RowHeadersDefaultCellStyle = dataGridViewCellStyle6;
-            this.dg_registrodeempleado.Size = new System.Drawing.Size(836, 150);
-            this.dg_registrodeempleado.TabIndex = 100;
-            // 
-            // pictureBox1
-            // 
-            this.pictureBox1.Image = global::Software_Industrial.Properties.Resources.Logo;
-            this.pictureBox1.Location = new System.Drawing.Point(605, 22);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(304, 94);
-            this.pictureBox1.TabIndex = 101;
-            this.pictureBox1.TabStop = false;
+            // textBox2
+            // 
+            this.textBox2.Enabled = false;
+            this.textBox2.Location = new System.Drawing.Point(93, 55);
+            this.textBox2.Name = "textBox2";
+            this.textBox2.Size = new System.Drawing.Size(100, 20);
+            this.textBox2.TabIndex = 1;
+            // 
+            // textBox3
+            // 
+            this.textBox3.Enabled = false;
+            this.textBox3.Location = new System.Drawing.Point(93, 81);
+            this.textBox3.Name = "textBox3";
+            this.textBox3.Size = new System.Drawing.Size(100, 20);
+            this.textBox3.TabIndex = 2;
+            // 
+            // textBox1
+            // 
+            this.textBox1.Enabled = false;
+            this.textBox1.Location = new System.Drawing.Point(93, 29);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(100, 20);
+            this.textBox1.TabIndex = 4;
+            // 
+            // textBox4
+            // 
+            this.textBox4.Enabled = false;
+            this.textBox4.Location = new System.Drawing.Point(93, 107);
+            this.textBox4.Name = "textBox4";
+            this.textBox4.Size = new System.Drawing.Size(100, 20);
+            this.textBox4.TabIndex = 5;
+            // 
+            // textBox5
+            // 
+            this.textBox5.Enabled = false;
+            this.textBox5.Location = new System.Drawing.Point(93, 133);
+            this.textBox5.Name = "textBox5";
+            this.textBox5.Size = new System.Drawing.Size(100, 20);
+            this.textBox5.TabIndex = 6;
+            // 
+            // textBox6
+            // 
+            this.textBox6.Enabled = false;
+            this.textBox6.Location = new System.Drawing.Point(306, 29);
+            this.textBox6.Name = "textBox6";
+            this.textBox6.Size = new System.Drawing.Size(110, 20);
+            this.textBox6.TabIndex = 7;
+            // 
+            // textBox7
+            // 
+            this.textBox7.Enabled = false;
+            this.textBox7.Location = new System.Drawing.Point(306, 55);
+            this.textBox7.Name = "textBox7";
+            this.textBox7.Size = new System.Drawing.Size(110, 20);
+            this.textBox7.TabIndex = 8;
+            // 
+            // textBox8
+            // 
+            this.textBox8.Enabled = false;
+            this.textBox8.Location = new System.Drawing.Point(306, 81);
+            this.textBox8.Name = "textBox8";
+            this.textBox8.Size = new System.Drawing.Size(110, 20);
+            this.textBox8.TabIndex = 9;
+            // 
+            // textBox9
+            // 
+            this.textBox9.Enabled = false;
+            this.textBox9.Location = new System.Drawing.Point(306, 107);
+            this.textBox9.Multiline = true;
+            this.textBox9.Name = "textBox9";
+            this.textBox9.Size = new System.Drawing.Size(241, 62);
+            this.textBox9.TabIndex = 10;
+            // 
+            // textBox10
+            // 
+            this.textBox10.Enabled = false;
+            this.textBox10.Location = new System.Drawing.Point(513, 25);
+            this.textBox10.Name = "textBox10";
+            this.textBox10.Size = new System.Drawing.Size(110, 20);
+            this.textBox10.TabIndex = 11;
+            // 
+            // textBox11
+            // 
+            this.textBox11.Enabled = false;
+            this.textBox11.Location = new System.Drawing.Point(513, 51);
+            this.textBox11.Name = "textBox11";
+            this.textBox11.Size = new System.Drawing.Size(121, 20);
+            this.textBox11.TabIndex = 12;
+            // 
+            // empleado_dgw
+            // 
+            this.empleado_dgw.AllowUserToAddRows = false;
+            this.empleado_dgw.AllowUserToDeleteRows = false;
+            this.empleado_dgw.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
+            this.empleado_dgw.BackgroundColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.empleado_dgw.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.empleado_dgw.Location = new System.Drawing.Point(21, 37);
+            this.empleado_dgw.Margin = new System.Windows.Forms.Padding(2);
+            this.empleado_dgw.Name = "empleado_dgw";
+            this.empleado_dgw.ReadOnly = true;
+            this.empleado_dgw.RowTemplate.Height = 24;
+            this.empleado_dgw.Size = new System.Drawing.Size(654, 142);
+            this.empleado_dgw.TabIndex = 42;
+            this.empleado_dgw.SelectionChanged += new System.EventHandler(this.empleado_dgw_SelectionChanged);
+            // 
+            // barra1
+            // 
+            this.barra1.BackColor = System.Drawing.Color.Transparent;
+            this.barra1.Location = new System.Drawing.Point(203, 23);
+            this.barra1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.barra1.Name = "barra1";
+            this.barra1.Size = new System.Drawing.Size(268, 42);
+            this.barra1.TabIndex = 43;
+            this.barra1.click_nuevo_button += new Navegador.Barra.delegadoButton(this.barra1_click_nuevo_button);
+            this.barra1.click_guardar_button += new Navegador.Barra.delegadoButton(this.barra1_click_guardar_button);
+            this.barra1.click_editar_button += new Navegador.Barra.delegadoButton(this.barra1_click_editar_button);
+            this.barra1.click_buscar_button += new Navegador.Barra.delegadoButton(this.barra1_click_buscar_button);
+            this.barra1.click_eliminar_button += new Navegador.Barra.delegadoButton(this.barra1_click_eliminar_button);
+            // 
+            // tabControl1
+            // 
+            this.tabControl1.Controls.Add(this.tabPage1);
+            this.tabControl1.Controls.Add(this.tabPage2);
+            this.tabControl1.Location = new System.Drawing.Point(12, 70);
+            this.tabControl1.Name = "tabControl1";
+            this.tabControl1.SelectedIndex = 0;
+            this.tabControl1.Size = new System.Drawing.Size(706, 227);
+            this.tabControl1.TabIndex = 44;
+            // 
+            // tabPage1
+            // 
+            this.tabPage1.Controls.Add(this.label12);
+            this.tabPage1.Controls.Add(this.label11);
+            this.tabPage1.Controls.Add(this.label10);
+            this.tabPage1.Controls.Add(this.label9);
+            this.tabPage1.Controls.Add(this.label8);
+            this.tabPage1.Controls.Add(this.label7);
+            this.tabPage1.Controls.Add(this.label6);
+            this.tabPage1.Controls.Add(this.label5);
+            this.tabPage1.Controls.Add(this.label4);
+            this.tabPage1.Controls.Add(this.label3);
+            this.tabPage1.Controls.Add(this.label2);
+            this.tabPage1.Controls.Add(this.label1);
+            this.tabPage1.Controls.Add(this.textBox10);
+            this.tabPage1.Controls.Add(this.textBox2);
+            this.tabPage1.Controls.Add(this.textBox3);
+            this.tabPage1.Controls.Add(this.textBox1);
+            this.tabPage1.Controls.Add(this.textBox11);
+            this.tabPage1.Controls.Add(this.textBox4);
+            this.tabPage1.Controls.Add(this.textBox5);
+            this.tabPage1.Controls.Add(this.textBox6);
+            this.tabPage1.Controls.Add(this.textBox9);
+            this.tabPage1.Controls.Add(this.textBox7);
+            this.tabPage1.Controls.Add(this.textBox8);
+            this.tabPage1.Location = new System.Drawing.Point(4, 22);
+            this.tabPage1.Name = "tabPage1";
+            this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
+            this.tabPage1.Size = new System.Drawing.Size(698, 201);
+            this.tabPage1.TabIndex = 0;
+            this.tabPage1.Text = "Ingreso de datos";
+            this.tabPage1.UseVisualStyleBackColor = true;
+            // 
+            // label12
+            // 
+            this.label12.AutoSize = true;
+            this.label12.Location = new System.Drawing.Point(457, 51);
+            this.label12.Name = "label12";
+            this.label12.Size = new System.Drawing.Size(50, 13);
+            this.label12.TabIndex = 26;
+            this.label12.Text = "Licencia:";
+            this.label12.Click += new System.EventHandler(this.label12_Click);
+            // 
+            // label11
+            // 
+            this.label11.AutoSize = true;
+            this.label11.Location = new System.Drawing.Point(431, 25);
+            this.label11.Name = "label11";
+            this.label11.Size = new System.Drawing.Size(76, 13);
+            this.label11.TabIndex = 25;
+            this.label11.Text = "Seguro Social:";
+            // 
+            // label10
+            // 
+            this.label10.AutoSize = true;
+            this.label10.Location = new System.Drawing.Point(245, 110);
+            this.label10.Name = "label10";
+            this.label10.Size = new System.Drawing.Size(55, 13);
+            this.label10.TabIndex = 24;
+            this.label10.Text = "Direccion:";
+            // 
+            // label9
+            // 
+            this.label9.AutoSize = true;
+            this.label9.Location = new System.Drawing.Point(248, 84);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(52, 13);
+            this.label9.TabIndex = 23;
+            this.label9.Text = "Telefono:";
+            // 
+            // label8
+            // 
+            this.label8.AutoSize = true;
+            this.label8.Location = new System.Drawing.Point(235, 62);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(65, 13);
+            this.label8.TabIndex = 22;
+            this.label8.Text = "Estado Civil:";
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Location = new System.Drawing.Point(228, 35);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(72, 13);
+            this.label7.TabIndex = 21;
+            this.label7.Text = "Nacionalidad:";
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Location = new System.Drawing.Point(42, 136);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(45, 13);
+            this.label6.TabIndex = 20;
+            this.label6.Text = "Genero:";
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(52, 107);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(35, 13);
+            this.label5.TabIndex = 19;
+            this.label5.Text = "Edad:";
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(59, 83);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(28, 13);
+            this.label4.TabIndex = 18;
+            this.label4.Text = "DPI:";
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(40, 88);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(0, 13);
+            this.label3.TabIndex = 17;
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(40, 58);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(47, 13);
+            this.label2.TabIndex = 16;
+            this.label2.Text = "Apellido:";
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(40, 32);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(47, 13);
+            this.label1.TabIndex = 15;
+            this.label1.Text = "Nombre:";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
+            // 
+            // tabPage2
+            // 
+            this.tabPage2.Controls.Add(this.empleado_dgw);
+            this.tabPage2.Location = new System.Drawing.Point(4, 22);
+            this.tabPage2.Name = "tabPage2";
+            this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
+            this.tabPage2.Size = new System.Drawing.Size(698, 201);
+            this.tabPage2.TabIndex = 1;
+            this.tabPage2.Text = "Consulta";
+            this.tabPage2.UseVisualStyleBackColor = true;
             // 
             // empleados
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackgroundImage = global::Software_Industrial.Properties.Resources.Wallpapper____Blue;
-            this.ClientSize = new System.Drawing.Size(921, 597);
-            this.Controls.Add(this.pictureBox1);
-            this.Controls.Add(this.dg_registrodeempleado);
-            this.Controls.Add(this.sueldo_text);
-            this.Controls.Add(this.lbl_sueldo);
-            this.Controls.Add(this.idcomisiones_cmb);
-            this.Controls.Add(this.lbl_idcomisiones);
-            this.Controls.Add(this.lbl_idpuesto);
-            this.Controls.Add(this.idpuesto_cmb);
-            this.Controls.Add(this.licencia_text);
-            this.Controls.Add(this.lbl_licencia);
-            this.Controls.Add(this.segurosocial_text);
-            this.Controls.Add(this.lbl_segurosocial);
-            this.Controls.Add(this.direccion_text);
-            this.Controls.Add(this.estadocivil_text);
-            this.Controls.Add(this.dpi_text);
-            this.Controls.Add(this.telefono_text);
-            this.Controls.Add(this.nacionalidad_text);
-            this.Controls.Add(this.lbl_dpi);
-            this.Controls.Add(this.lbl_direccion);
-            this.Controls.Add(this.lbl_telefono);
-            this.Controls.Add(this.lbl_estadocivil);
-            this.Controls.Add(this.lbl_nacionalidad);
-            this.Controls.Add(this.genero_text);
-            this.Controls.Add(this.edad_text);
-            this.Controls.Add(this.lbl_edad);
-            this.Controls.Add(this.lbl_genero);
-            this.Controls.Add(this.lbl_nombre);
-            this.Controls.Add(this.nombre_text);
-            this.Controls.Add(this.lbl_apellido);
-            this.Controls.Add(this.apellido_text);
-            this.Controls.Add(this.button4);
-            this.Controls.Add(this.button3);
-            this.Controls.Add(this.button2);
-            this.Controls.Add(this.button1);
+            this.ClientSize = new System.Drawing.Size(742, 315);
+            this.Controls.Add(this.tabControl1);
+            this.Controls.Add(this.barra1);
             this.Name = "empleados";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "empleados";
             this.Load += new System.EventHandler(this.empleados_Load);
-            ((System.ComponentModel.ISupportInitialize)(this.dg_registrodeempleado)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.empleado_dgw)).EndInit();
+            this.tabControl1.ResumeLayout(false);
+            this.tabPage1.ResumeLayout(false);
+            this.tabPage1.PerformLayout();
+            this.tabPage2.ResumeLayout(false);
             this.ResumeLayout(false);
-            this.PerformLayout();
 
         }
 
         #endregion
 
-        private System.Windows.Forms.Button button4;
-        private System.Windows.Forms.Button button3;
-        private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.TextBox sueldo_text;
-        private System.Windows.Forms.Label lbl_sueldo;
-        private System.Windows.Forms.ComboBox idcomisiones_cmb;
-        private System.Windows.Forms.Label lbl_idcomisiones;
-        private System.Windows.Forms.Label lbl_idpuesto;
-        private System.Windows.Forms.ComboBox idpuesto_cmb;
-        private System.Windows.Forms.TextBox licencia_text;
-        private System.Windows.Forms.Label lbl_licencia;
-        private System.Windows.Forms.TextBox segurosocial_text;
-        private System.Windows.Forms.Label lbl_segurosocial;
-        private System.Windows.Forms.TextBox direccion_text;
-        private System.Windows.Forms.TextBox estadocivil_text;
-        private System.Windows.Forms.TextBox dpi_text;
-        private System.Windows.Forms.TextBox telefono_text;
-        private System.Windows.Forms.TextBox nacionalidad_text;
-        private System.Windows.Forms.Label lbl_dpi;
-        private System.Windows.Forms.Label lbl_direccion;
-        private System.Windows.Forms.Label lbl_telefono;
-        private System.Windows.Forms.Label lbl_estadocivil;
-        private System.Windows.Forms.Label lbl_nacionalidad;
-        private System.Windows.Forms.TextBox genero_text;
-        private System.Windows.Forms.TextBox edad_text;
-        private System.Windows.Forms.Label lbl_edad;
-        private System.Windows.Forms.Label lbl_genero;
-        private System.Windows.Forms.Label lbl_nombre;
-        private System.Windows.Forms.TextBox nombre_text;
-        private System.Windows.Forms.Label lbl_apellido;
-        private System.Windows.Forms.TextBox apellido_text;
-        private System.Windows.Forms.DataGridView dg_registrodeempleado;
-        private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.TextBox textBox3;
+        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox textBox4;
+        private System.Windows.Forms.TextBox textBox5;
+        private System.Windows.Forms.TextBox textBox6;
+        private System.Windows.Forms.TextBox textBox7;
+        private System.Windows.Forms.TextBox textBox8;
+        private System.Windows.Forms.TextBox textBox9;
+        private System.Windows.Forms.TextBox textBox10;
+        private System.Windows.Forms.TextBox textBox11;
+        private System.Windows.Forms.DataGridView empleado_dgw;
+        private Navegador.Barra barra1;
+        private System.Windows.Forms.TabControl tabControl1;
+        private System.Windows.Forms.TabPage tabPage1;
+        private System.Windows.Forms.TabPage tabPage2;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label label12;
+        private System.Windows.Forms.Label label11;
+        private System.Windows.Forms.Label label10;
+        private System.Windows.Forms.Label label9;
+        private System.Windows.Forms.Label label8;
+        private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label label2;
     }
 }

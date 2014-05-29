@@ -118,8 +118,20 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="nominas" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Imageness\nominas.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="empleados" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Imageness\empleados.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Imageness\5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Imageness\1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="usuario-de-los-recursos-de-mayordomo-icono-7232-128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Recursos\PNG\usuario-de-los-recursos-de-mayordomo-icono-7232-128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="cancelar-icono-4839-32" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Recursos\PNG\cancelar-icono-4839-32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -130,11 +142,11 @@
   <data name="4" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Imageness\4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="departamentos" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Imageness\departamentos.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="3" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Imageness\3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Wallpapper  - Blue" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Recursos\JPG\Wallpapper  - Blue.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="aceptar-icono-6494-32" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Recursos\PNG\aceptar-icono-6494-32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -142,17 +154,20 @@
   <data name="Logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Recursos\JPG\Logo.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="actualizacion-de-copia-de-seguridad-icono-4945-128" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Recursos\PNG\actualizacion-de-copia-de-seguridad-icono-4945-128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Imageness\2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="datos-nominas" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Imageness\datos-nominas.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Wallpapper  - Blue" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Recursos\JPG\Wallpapper  - Blue.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="cesta-de-la-compra-de-la-tienda-icono-8752-128" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Recursos\PNG\cesta-de-la-compra-de-la-tienda-icono-8752-128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="la-lucha-contra-la-caja-registradora-icono-4028-128" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Recursos\PNG\la-lucha-contra-la-caja-registradora-icono-4028-128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="puestos" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Imageness\puestos.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="monedas-en-efectivo-en-moneda-icono-4023-128" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Recursos\PNG\monedas-en-efectivo-en-moneda-icono-4023-128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -163,10 +178,16 @@
   <data name="paquete-de-caja-icono-4765-128" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Recursos\PNG\paquete-de-caja-icono-4765-128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="usuario-de-los-recursos-de-mayordomo-icono-7232-128" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Recursos\PNG\usuario-de-los-recursos-de-mayordomo-icono-7232-128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="departamentos1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Imageness\departamentos.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="5" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Imageness\5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="actualizacion-de-copia-de-seguridad-icono-4945-128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Recursos\PNG\actualizacion-de-copia-de-seguridad-icono-4945-128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="la-lucha-contra-la-caja-registradora-icono-4028-128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Recursos\PNG\la-lucha-contra-la-caja-registradora-icono-4028-128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="planilla" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Imageness\planilla.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

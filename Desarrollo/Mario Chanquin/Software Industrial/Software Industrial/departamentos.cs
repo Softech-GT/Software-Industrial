@@ -28,15 +28,7 @@ namespace Software_Industrial
             consulta();
         }
 
-        private void button1_Click(object sender, EventArgs e)
-        {
-            nombre_text.Enabled = true;
-            descripcion_text.Enabled = true;
-            funcion_text.Enabled = true;
-            nombre_text.Focus();
-            nuevo = true;
-            editar = false; 
-        }
+        
 
         private void consulta()
         {
@@ -46,7 +38,40 @@ namespace Software_Industrial
             depto_dgw.Focus();
         }
 
-        private void button2_Click(object sender, EventArgs e)
+       
+
+        private void limpiar()
+        {
+            nombre_text.Text = descripcion_text.Text = funcion_text.Text = "";
+            nombre_text.Enabled = descripcion_text.Enabled = funcion_text.Enabled = false;
+        }
+
+        
+
+
+        private void depto_dgw_SelectionChanged(object sender, EventArgs e)
+        {
+            cambio = true;
+        }
+
+        
+
+        private void depto_dgw_SelectionChanged_1(object sender, EventArgs e)
+        {
+            cambio = true;
+        }
+
+        private void barra1_click_nuevo_button()
+        {
+            nombre_text.Enabled = true;
+            descripcion_text.Enabled = true;
+            funcion_text.Enabled = true;
+            nombre_text.Focus();
+            nuevo = true;
+            editar = false; 
+        }
+
+        private void barra1_click_guardar_button()
         {
             string tabla = "tbdepto";
             Dictionary<string, string> d = new Dictionary<string, string>();
@@ -69,13 +94,7 @@ namespace Software_Industrial
             }
         }
 
-        private void limpiar()
-        {
-            nombre_text.Text = descripcion_text.Text = funcion_text.Text = "";
-            nombre_text.Enabled = descripcion_text.Enabled = funcion_text.Enabled = false;
-        }
-
-        private void button3_Click(object sender, EventArgs e)
+        private void barra1_click_editar_button()
         {
             if (cambio)
             {
@@ -90,13 +109,7 @@ namespace Software_Industrial
             }
         }
 
-
-        private void depto_dgw_SelectionChanged(object sender, EventArgs e)
-        {
-            cambio = true;
-        }
-
-        private void button4_Click(object sender, EventArgs e)
+        private void barra1_click_eliminar_button()
         {
             if (cambio)
             {
