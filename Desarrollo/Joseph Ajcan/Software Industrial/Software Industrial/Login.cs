@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Software_Industrial
 {
-    public partial class Login : Form
+    public partial class login : Form
     {
-        public Login()
+        public login()
         {
             InitializeComponent();
         }

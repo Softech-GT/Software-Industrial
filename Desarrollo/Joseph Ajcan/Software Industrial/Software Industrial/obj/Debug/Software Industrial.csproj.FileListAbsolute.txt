@@ -8,3 +8,24 @@ c:\users\joseph\documents\visual studio 2013\Projects\Software Industrial\Softwa
 c:\users\joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software Industrial.pdb
 c:\users\joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.MDI.resources
 c:\users\joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Login.resources
+C:\Users\Joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\bin\Debug\ODBCConnect.dll
+C:\Users\Joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\bin\Debug\Navegador.dll
+C:\Users\Joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.buscar_formula.resources
+C:\Users\Joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.asignacion_maquinaria.resources
+C:\Users\Joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.busca_empleado.resources
+C:\Users\Joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.crear_receta.resources
+C:\Users\Joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.configuracion.resources
+C:\Users\Joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.maquinaria.resources
+C:\Users\Joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.produccion.resources
+C:\Users\Joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.gestion_produccion.resources
+C:\Users\Joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Inventario.movimientos.resources
+C:\Users\Joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Inventario.nota_ingreso.resources
+C:\Users\Joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Inventario.salida.resources
+C:\Users\Joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Inventario.productos.resources
+C:\Users\Joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Inventario.inventarios.resources
+C:\Users\Joseph\Documents\Visual Studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.centro_produccion.resources
+C:\Users\Joseph\Documents\Visual Studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.elaboracion.resources
+C:\Users\Joseph\Documents\Visual Studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.planificacion.resources
+C:\Users\Joseph\Documents\Visual Studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.toma_inventario.resources
+C:\Users\Joseph\Documents\Visual Studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.fases_produccion.resources
+C:\Users\Joseph\Documents\Visual Studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.estados_produccion.resources
