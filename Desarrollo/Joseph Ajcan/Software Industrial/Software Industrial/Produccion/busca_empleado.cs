@@ -72,13 +72,6 @@ namespace Software_Industrial
                 this.Close();
             }
 
-            /*MessageBox.Show(codigo);
-            MessageBox.Show(nombre);
-            MessageBox.Show(edad);
-            MessageBox.Show(telefono);
-            MessageBox.Show(direccion);*/
-
-
             envia.recibe_datos(codigo,nombre,edad,telefono,direccion); 
 
         }

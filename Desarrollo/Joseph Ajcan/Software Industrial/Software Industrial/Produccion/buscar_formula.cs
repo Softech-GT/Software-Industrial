@@ -14,22 +14,80 @@ namespace Software_Industrial
     public partial class buscar_formula : Form
     {
         DBConnect db = new DBConnect("conexion");
-
-        public buscar_formula()
+        crear_receta envia;
+        public buscar_formula(crear_receta p)
         {
             InitializeComponent();
+            envia = p;
+            comboBox1.SelectedIndex = 0;
         }
         private void actualizar()
         {
-            string tipo = "select idtipo_receta,nombre from tipo_receta;";
-            comboBox1.DataSource = db.consulta_ComboBox(tipo);
-            comboBox1.DisplayMember = "nombre";
-            comboBox1.ValueMember = "idtipo_receta";
+            if (comboBox1.SelectedItem.ToString().Equals("Codigo"))
+            {
+                string query = "select  idreceta as Codigo, nombre as Nombre from receta where idreceta=" + textBox1.Text;
+                dataGridView1.DataSource = db.consulta_DataGridView(query);
+            }
+            if (comboBox1.SelectedItem.ToString().Equals("Nombre"))
+            {
+                string query = "select  idreceta as Codigo, nombre as Nombre from receta where nombre='" + textBox1.Text + "'";
+                dataGridView1.DataSource = db.consulta_DataGridView(query);
+            }
+           
         }
 
-        private void buscar_formula_Load(object sender, EventArgs e)
+      
+        private void button2_Click(object sender, EventArgs e)
         {
-            actualizar();
+
+            if (textBox1.Text == "")
+            {
+                MessageBox.Show("Debe llenar el cambio buscar", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+            else
+            {
+                actualizar();
+                string i = dataGridView1.RowCount.ToString();
+                if (i.Equals("0"))
+                {
+                    MessageBox.Show("Sin resultados de busqueda", "Sin datos", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+                }
+                else
+                {
+
+                }
+
+            }
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            string id = "";
+            int i = dataGridView1.CurrentRow.Index;
+            id = dataGridView1.Rows[i].Cells[0].Value.ToString();
+
+            string codigo = "";
+            string nombre = "";
+            string descripcion = "";
+            string estado = "";
+            string fecha = "";
+
+
+            string cont = "select idreceta,nombre,descripcion,estado,fecha from receta where idreceta=" + id;
+            System.Collections.ArrayList arra = db.consultar(cont);
+            foreach (Dictionary<string, string> dicc in arra)
+            {
+                codigo = dicc["idreceta"];
+                nombre = dicc["nombre"];
+                descripcion = dicc["descripcion"];
+                estado = dicc["estado"];
+                fecha = dicc["fecha"];
+            }
+
+        
+            fecha = fecha.Substring(0, 10);
+            envia.recibe_datos(codigo,nombre,descripcion,estado,fecha);
+            this.Close();
         }
     }
 }

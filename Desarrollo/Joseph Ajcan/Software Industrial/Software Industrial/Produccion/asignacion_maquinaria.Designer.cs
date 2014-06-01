@@ -85,7 +85,7 @@
             // 
             // textBox5
             // 
-            this.textBox5.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox5.BackColor = System.Drawing.SystemColors.Control;
             this.textBox5.Location = new System.Drawing.Point(322, 81);
             this.textBox5.Name = "textBox5";
             this.textBox5.ReadOnly = true;
@@ -94,7 +94,7 @@
             // 
             // textBox4
             // 
-            this.textBox4.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox4.BackColor = System.Drawing.SystemColors.Control;
             this.textBox4.Location = new System.Drawing.Point(90, 111);
             this.textBox4.Name = "textBox4";
             this.textBox4.ReadOnly = true;
@@ -103,7 +103,7 @@
             // 
             // textBox3
             // 
-            this.textBox3.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox3.BackColor = System.Drawing.SystemColors.Control;
             this.textBox3.Location = new System.Drawing.Point(90, 74);
             this.textBox3.Name = "textBox3";
             this.textBox3.ReadOnly = true;
@@ -112,7 +112,7 @@
             // 
             // textBox2
             // 
-            this.textBox2.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox2.BackColor = System.Drawing.SystemColors.Control;
             this.textBox2.Location = new System.Drawing.Point(322, 38);
             this.textBox2.Name = "textBox2";
             this.textBox2.ReadOnly = true;
@@ -121,7 +121,7 @@
             // 
             // textBox1
             // 
-            this.textBox1.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox1.BackColor = System.Drawing.SystemColors.Control;
             this.textBox1.Location = new System.Drawing.Point(90, 38);
             this.textBox1.Name = "textBox1";
             this.textBox1.ReadOnly = true;
@@ -181,6 +181,7 @@
             this.barra1.Name = "barra1";
             this.barra1.Size = new System.Drawing.Size(268, 42);
             this.barra1.TabIndex = 1;
+            this.barra1.click_guardar_button += new Navegador.Barra.delegadoButton(this.barra1_click_guardar_button);
             this.barra1.click_buscar_button += new Navegador.Barra.delegadoButton(this.barra1_click_buscar_button);
             // 
             // groupBox2
@@ -260,6 +261,7 @@
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(172, 21);
             this.comboBox1.TabIndex = 2;
+            this.comboBox1.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
             // 
             // label9
             // 
@@ -309,13 +311,13 @@
             this.radioButton2.Name = "radioButton2";
             this.radioButton2.Size = new System.Drawing.Size(62, 17);
             this.radioButton2.TabIndex = 6;
-            this.radioButton2.TabStop = true;
             this.radioButton2.Text = "De baja";
             this.radioButton2.UseVisualStyleBackColor = true;
             // 
             // radioButton1
             // 
             this.radioButton1.AutoSize = true;
+            this.radioButton1.Checked = true;
             this.radioButton1.Location = new System.Drawing.Point(214, 23);
             this.radioButton1.Name = "radioButton1";
             this.radioButton1.Size = new System.Drawing.Size(59, 17);

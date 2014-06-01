@@ -173,6 +173,16 @@ namespace Software_Industrial.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Search_icon {
+            get {
+                object obj = ResourceManager.GetObject("Search-icon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap usuario_de_los_recursos_de_mayordomo_icono_7232_128 {
             get {
                 object obj = ResourceManager.GetObject("usuario-de-los-recursos-de-mayordomo-icono-7232-128", resourceCulture);

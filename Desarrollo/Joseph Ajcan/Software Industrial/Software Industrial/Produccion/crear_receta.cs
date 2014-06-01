@@ -18,28 +18,33 @@ namespace Software_Industrial
         public crear_receta()
         {
             InitializeComponent();
+         
         }
+        
+        bool band_nuevo = false;
 
         private void barra1_click_buscar_button()
         {
-            buscar_formula bf = new buscar_formula();
-            bf.Show();
+            new buscar_formula(this).ShowDialog();  
         }
 
+        public void recibe_datos(string codigo,string nombre,string descripcion,string estado,string fecha) 
+        {
+            textBox1.Text = codigo;
+            textBox2.Text = nombre;
+            textBox5.Text = descripcion;
+            textBox3.Text = fecha;
+            habilita_detalle();
+            detalle_receta();
+        }
 
         private void actualiza() 
         {
             DateTime fechaHoy = DateTime.Now;
-            string fecha = fechaHoy.ToString("d");
+            string fecha = fechaHoy.ToString("yyyy-MM-dd");
             textBox3.Text = fecha;
 
-            string tipo = "select idtipo_receta,nombre from tipo_receta;";
-            comboBox1.DataSource = db.consulta_ComboBox(tipo);
-            comboBox1.DisplayMember = "nombre";
-            comboBox1.ValueMember = "idtipo_receta";
-
-
-            string elemento = "select idproducto, nombre from producto;";
+            string elemento = "select idproducto, nombre from producto where tipo_idtipo=1;";
             comboBox2.DataSource = db.consulta_ComboBox(elemento);
             comboBox2.DisplayMember = "nombre";
             comboBox2.ValueMember = "idproducto";
@@ -49,65 +54,108 @@ namespace Software_Industrial
             comboBox3.DataSource = db.consulta_ComboBox(medida);
             comboBox3.DisplayMember = "nombre";
             comboBox3.ValueMember = "idmedidas";
+
+            int numero = 1;
+            string val_ant="";
+            string query = "select MAX(idreceta) as ultimo from receta;";
+            System.Collections.ArrayList array = db.consultar(query);
+            foreach (Dictionary<string, string> dict in array)
+            {
+                val_ant=dict["ultimo"];
+            }
+
+
+            if (val_ant.Equals(""))
+            {
+                textBox1.Text = numero.ToString();
+            }
+            else {
+                numero = numero + (int.Parse(val_ant));            
+                textBox1.Text = numero.ToString(); 
+            }
+
+            
+
+
+
         }
 
         private void detalle_receta()
         {
-            string query = "select *from detalle_receta where idreceta=" + textBox1.Text;
+            string query = "select p.nombre,d.cantidad ,m.abreviatura from producto as p,detalle_receta as d,medidas as m where p.idproducto = d.idproducto and m.idmedidas = d.idmedidas and idreceta=" + textBox1.Text;
             dataGridView1.DataSource = db.consulta_DataGridView(query);
         }
 
-        int i = 1;
+
         private void crear_receta_Load(object sender, EventArgs e)
         {
             actualiza();
         }
 
-        string estado = "";
+        string estado = "De alta";
+
+        private void habilita_detalle()
+        {
+            comboBox2.Enabled = true;
+            comboBox3.Enabled = true;
+            textBox4.ReadOnly = false;
+        }
+        
         private void barra1_click_guardar_button()
         {
-            
-            if (radioButton1.Checked == true)
-            {
-                estado = "De altas";
-            }
-            else 
-            {
-                estado="De baja";
-            }
+           
 
+            if (radioButton2.Checked == true)
+             {
+                 estado = "De Baja";
+             }
 
-            if (i == 1) 
+            if (band_nuevo)
             {
-                if (MessageBox.Show("Desea guardar", "Guardar", MessageBoxButtons.OKCancel, MessageBoxIcon.Question) == DialogResult.OK)
+               if (MessageBox.Show("Desea guardar", "Guardar", MessageBoxButtons.OKCancel, MessageBoxIcon.Question) == DialogResult.OK)
                 {
                     Dictionary<string, string> dict = new Dictionary<string, string>();
-                    dict.Add("idreceta", textBox1.Text);
-                    dict.Add("descripcion", textBox2.Text);
-                    dict.Add("idtipo_receta", comboBox1.SelectedValue.ToString());
+                    dict.Add("nombre", textBox2.Text);
+                    dict.Add("descripcion", textBox5.Text);
                     dict.Add("estado", estado);
                     dict.Add("fecha", textBox3.Text);
-                    db.insertar("receta", dict);                   
+                    db.insertar("receta", dict);
+
+                    habilita_detalle();
+
                 }
 
 
-                textBox1.ReadOnly = true;
-                textBox2.ReadOnly = true;             
-                i++;
+                textBox2.ReadOnly = true;
+                textBox5.ReadOnly = true;
+                band_nuevo = false;
             }
-
             else
             {
                 Dictionary<string, string> dict1 = new Dictionary<string, string>();
                 dict1.Add("idreceta", textBox1.Text);
                 dict1.Add("idproducto", comboBox2.SelectedValue.ToString());
-                //dict.Add("idtipo_receta", comboBox1.SelectedValue.ToString());
-                dict1.Add("cantidad", textBox4.Text);
                 dict1.Add("idmedidas", comboBox3.SelectedValue.ToString());
+                dict1.Add("cantidad", textBox4.Text);
                 db.insertar("detalle_receta", dict1);
+               
                 detalle_receta();
+                
             }
 
+
+        }
+
+        
+
+        private void barra1_click_nuevo_button()
+        {
+            textBox2.ReadOnly = false;
+            textBox5.ReadOnly = false;
+            textBox2.Focus();
+            band_nuevo = true;
+            textBox2.Clear();
+            textBox5.Clear();
         }
     }
 }
