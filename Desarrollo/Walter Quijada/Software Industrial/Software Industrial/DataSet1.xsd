@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="ConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="ConnectionString (Settings)" PropertyReference="ApplicationSettings.Software_Industrial.Properties.Settings.GlobalReference.Default.ConnectionString" Provider="System.Data.Odbc" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="ds_prodTableAdapter" GeneratorDataComponentClassName="ds_prodTableAdapter" Name="ds_prod" UserDataComponentName="ds_prodTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="ConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT * FROM `tbm_ordenproduccion`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="idtmb_ordenproduccion" DataSetColumn="idtmb_ordenproduccion" />
+              <Mapping SourceColumn="tx_nombre" DataSetColumn="tx_nombre" />
+              <Mapping SourceColumn="cantidad_solicitada" DataSetColumn="cantidad_solicitada" />
+              <Mapping SourceColumn="estado" DataSetColumn="estado" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSet1" msprop:Generator_UserDSName="DataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="ds_prod" msprop:Generator_TableClassName="ds_prodDataTable" msprop:Generator_TableVarName="tableds_prod" msprop:Generator_TablePropName="ds_prod" msprop:Generator_RowDeletingName="ds_prodRowDeleting" msprop:Generator_RowChangingName="ds_prodRowChanging" msprop:Generator_RowEvHandlerName="ds_prodRowChangeEventHandler" msprop:Generator_RowDeletedName="ds_prodRowDeleted" msprop:Generator_UserTableName="ds_prod" msprop:Generator_RowChangedName="ds_prodRowChanged" msprop:Generator_RowEvArgName="ds_prodRowChangeEvent" msprop:Generator_RowClassName="ds_prodRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="idtmb_ordenproduccion" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnVarNameInTable="columnidtmb_ordenproduccion" msprop:Generator_ColumnPropNameInRow="idtmb_ordenproduccion" msprop:Generator_ColumnPropNameInTable="idtmb_ordenproduccionColumn" msprop:Generator_UserColumnName="idtmb_ordenproduccion" type="xs:int" minOccurs="0" />
+              <xs:element name="tx_nombre" msprop:Generator_ColumnVarNameInTable="columntx_nombre" msprop:Generator_ColumnPropNameInRow="tx_nombre" msprop:Generator_ColumnPropNameInTable="tx_nombreColumn" msprop:Generator_UserColumnName="tx_nombre" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="135" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="cantidad_solicitada" msprop:Generator_ColumnVarNameInTable="columncantidad_solicitada" msprop:Generator_ColumnPropNameInRow="cantidad_solicitada" msprop:Generator_ColumnPropNameInTable="cantidad_solicitadaColumn" msprop:Generator_UserColumnName="cantidad_solicitada" type="xs:int" minOccurs="0" />
+              <xs:element name="estado" msprop:Generator_ColumnVarNameInTable="columnestado" msprop:Generator_ColumnPropNameInRow="estado" msprop:Generator_ColumnPropNameInTable="estadoColumn" msprop:Generator_UserColumnName="estado" type="xs:int" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1">
+      <xs:selector xpath=".//mstns:ds_prod" />
+      <xs:field xpath="mstns:idtmb_ordenproduccion" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>
