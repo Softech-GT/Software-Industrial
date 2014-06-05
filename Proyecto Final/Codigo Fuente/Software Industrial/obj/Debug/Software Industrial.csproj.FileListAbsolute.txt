@@ -1,0 +1,456 @@
+c:\users\joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\bin\Debug\Software Industrial.exe.config
+c:\users\joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\bin\Debug\Software Industrial.exe
+c:\users\joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\bin\Debug\Software Industrial.pdb
+c:\users\joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software Industrial.csprojResolveAssemblyReference.cache
+c:\users\joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Properties.Resources.resources
+c:\users\joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software Industrial.csproj.GenerateResource.Cache
+c:\users\joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software Industrial.exe
+c:\users\joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software Industrial.pdb
+c:\users\joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.MDI.resources
+c:\users\joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Login.resources
+C:\Users\Joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\bin\Debug\ODBCConnect.dll
+C:\Users\Joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\bin\Debug\Navegador.dll
+C:\Users\Joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.buscar_formula.resources
+C:\Users\Joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.asignacion_maquinaria.resources
+C:\Users\Joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.busca_empleado.resources
+C:\Users\Joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.crear_receta.resources
+C:\Users\Joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.configuracion.resources
+C:\Users\Joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.maquinaria.resources
+C:\Users\Joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.produccion.resources
+C:\Users\Joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.gestion_produccion.resources
+C:\Users\Joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Inventario.movimientos.resources
+C:\Users\Joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Inventario.nota_ingreso.resources
+C:\Users\Joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Inventario.salida.resources
+C:\Users\Joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Inventario.productos.resources
+C:\Users\Joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Inventario.inventarios.resources
+C:\Users\Joseph\Documents\Visual Studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.centro_produccion.resources
+C:\Users\Joseph\Documents\Visual Studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.elaboracion.resources
+C:\Users\Joseph\Documents\Visual Studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.planificacion.resources
+C:\Users\Joseph\Documents\Visual Studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.toma_inventario.resources
+C:\Users\Joseph\Documents\Visual Studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.fases_produccion.resources
+C:\Users\Joseph\Documents\Visual Studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.estados_produccion.resources
+C:\Users\Joseph\Documents\Visual Studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.asigna_empleado.resources
+C:\Users\Joseph\Documents\Visual Studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.asigna_maquinaria.resources
+C:\Users\Joseph\Documents\Visual Studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.busca_produccion.resources
+C:\Users\Joseph\Documents\Visual Studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.busca_ordenpro.resources
+C:\Users\Joseph\Desktop\Software Industrial\Software Industrial\bin\Debug\Software Industrial.exe.config
+C:\Users\Joseph\Desktop\Software Industrial\Software Industrial\obj\Debug\Software Industrial.exe
+C:\Users\Joseph\Desktop\Software Industrial\Software Industrial\obj\Debug\Software Industrial.pdb
+C:\Users\Joseph\Desktop\Software Industrial\Software Industrial\bin\Debug\Software Industrial.exe
+C:\Users\Joseph\Desktop\Software Industrial\Software Industrial\bin\Debug\Software Industrial.pdb
+C:\Users\Joseph\Desktop\Software Industrial\Software Industrial\bin\Debug\Navegador.dll
+C:\Users\Joseph\Desktop\Software Industrial\Software Industrial\bin\Debug\ODBCConnect.dll
+C:\Users\Joseph\Desktop\Software Industrial\Software Industrial\obj\Debug\Software Industrial.csprojResolveAssemblyReference.cache
+C:\Users\Joseph\Desktop\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Inventario.movimientos.resources
+C:\Users\Joseph\Desktop\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Inventario.nota_ingreso.resources
+C:\Users\Joseph\Desktop\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Inventario.salida.resources
+C:\Users\Joseph\Desktop\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Inventario.productos.resources
+C:\Users\Joseph\Desktop\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Inventario.inventarios.resources
+C:\Users\Joseph\Desktop\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.asigna_empleado.resources
+C:\Users\Joseph\Desktop\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.asigna_maquinaria.resources
+C:\Users\Joseph\Desktop\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.buscar_formula.resources
+C:\Users\Joseph\Desktop\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.asignacion_maquinaria.resources
+C:\Users\Joseph\Desktop\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.busca_empleado.resources
+C:\Users\Joseph\Desktop\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.busca_ordenpro.resources
+C:\Users\Joseph\Desktop\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.busca_produccion.resources
+C:\Users\Joseph\Desktop\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.centro_produccion.resources
+C:\Users\Joseph\Desktop\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.crear_receta.resources
+C:\Users\Joseph\Desktop\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.configuracion.resources
+C:\Users\Joseph\Desktop\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.elaboracion.resources
+C:\Users\Joseph\Desktop\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.estados_produccion.resources
+C:\Users\Joseph\Desktop\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.fases_produccion.resources
+C:\Users\Joseph\Desktop\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.gestion_produccion.resources
+C:\Users\Joseph\Desktop\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.login.resources
+C:\Users\Joseph\Desktop\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.maquinaria.resources
+C:\Users\Joseph\Desktop\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.MDI.resources
+C:\Users\Joseph\Desktop\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.planificacion.resources
+C:\Users\Joseph\Desktop\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.produccion.resources
+C:\Users\Joseph\Desktop\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.toma_inventario.resources
+C:\Users\Joseph\Desktop\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Properties.Resources.resources
+C:\Users\Joseph\Desktop\Software Industrial\Software Industrial\obj\Debug\Software Industrial.csproj.GenerateResource.Cache
+C:\Users\Joseph\Desktop\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.asignar_usuarios.resources
+C:\Users\Joseph\Desktop\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.ausencias.resources
+C:\Users\Joseph\Desktop\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Causencias.resources
+C:\Users\Joseph\Desktop\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.departamentos.resources
+C:\Users\Joseph\Desktop\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.empleados.resources
+C:\Users\Joseph\Desktop\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.gastos.resources
+C:\Users\Joseph\Desktop\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.personal.resources
+C:\Users\Joseph\Desktop\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.puestos.resources
+C:\Users\Joseph\Desktop\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Recursos_Humanos.resources
+C:\Users\Joseph\Desktop\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.rrhh.resources
+C:\Users\Joseph\Desktop\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.tiempo_laborado.resources
+C:\Users\Joseph\Desktop\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.vacaciones.resources
+C:\Users\Joseph\Desktop\Proyecto final\Software Industrial\Software Industrial\bin\Debug\Software Industrial.exe.config
+C:\Users\Joseph\Desktop\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software Industrial.exe
+C:\Users\Joseph\Desktop\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software Industrial.pdb
+C:\Users\mario\Desktop\Integracion\Proyecto final\Software Industrial\Software Industrial\bin\Debug\Software Industrial.exe.config
+C:\Users\mario\Desktop\Integracion\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software Industrial.exe
+C:\Users\mario\Desktop\Integracion\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software Industrial.pdb
+C:\Users\mario\Desktop\Integracion\Proyecto final\Software Industrial\Software Industrial\bin\Debug\Software Industrial.exe
+C:\Users\mario\Desktop\Integracion\Proyecto final\Software Industrial\Software Industrial\bin\Debug\Software Industrial.pdb
+C:\Users\mario\Desktop\Integracion\Proyecto final\Software Industrial\Software Industrial\bin\Debug\Navegador.dll
+C:\Users\mario\Desktop\Integracion\Proyecto final\Software Industrial\Software Industrial\bin\Debug\ODBCConnect.dll
+C:\Users\mario\Desktop\Integracion\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software Industrial.csprojResolveAssemblyReference.cache
+C:\Users\mario\Desktop\Integracion\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.asignar_usuarios.resources
+C:\Users\mario\Desktop\Integracion\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.ausencias.resources
+C:\Users\mario\Desktop\Integracion\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Causencias.resources
+C:\Users\mario\Desktop\Integracion\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.departamentos.resources
+C:\Users\mario\Desktop\Integracion\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.empleados.resources
+C:\Users\mario\Desktop\Integracion\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.gastos.resources
+C:\Users\mario\Desktop\Integracion\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Inventario.movimientos.resources
+C:\Users\mario\Desktop\Integracion\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Inventario.nota_ingreso.resources
+C:\Users\mario\Desktop\Integracion\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Inventario.salida.resources
+C:\Users\mario\Desktop\Integracion\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Inventario.productos.resources
+C:\Users\mario\Desktop\Integracion\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Inventario.inventarios.resources
+C:\Users\mario\Desktop\Integracion\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.personal.resources
+C:\Users\mario\Desktop\Integracion\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.asigna_empleado.resources
+C:\Users\mario\Desktop\Integracion\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.asigna_maquinaria.resources
+C:\Users\mario\Desktop\Integracion\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.buscar_formula.resources
+C:\Users\mario\Desktop\Integracion\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.asignacion_maquinaria.resources
+C:\Users\mario\Desktop\Integracion\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.busca_empleado.resources
+C:\Users\mario\Desktop\Integracion\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.busca_ordenpro.resources
+C:\Users\mario\Desktop\Integracion\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.busca_produccion.resources
+C:\Users\mario\Desktop\Integracion\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.centro_produccion.resources
+C:\Users\mario\Desktop\Integracion\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.crear_receta.resources
+C:\Users\mario\Desktop\Integracion\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.configuracion.resources
+C:\Users\mario\Desktop\Integracion\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.elaboracion.resources
+C:\Users\mario\Desktop\Integracion\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.estados_produccion.resources
+C:\Users\mario\Desktop\Integracion\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.fases_produccion.resources
+C:\Users\mario\Desktop\Integracion\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.gestion_produccion.resources
+C:\Users\mario\Desktop\Integracion\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.puestos.resources
+C:\Users\mario\Desktop\Integracion\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Recursos_Humanos.resources
+C:\Users\mario\Desktop\Integracion\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.rrhh.resources
+C:\Users\mario\Desktop\Integracion\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.login.resources
+C:\Users\mario\Desktop\Integracion\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.maquinaria.resources
+C:\Users\mario\Desktop\Integracion\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.MDI.resources
+C:\Users\mario\Desktop\Integracion\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.planificacion.resources
+C:\Users\mario\Desktop\Integracion\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.produccion.resources
+C:\Users\mario\Desktop\Integracion\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.toma_inventario.resources
+C:\Users\mario\Desktop\Integracion\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Properties.Resources.resources
+C:\Users\mario\Desktop\Integracion\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.tiempo_laborado.resources
+C:\Users\mario\Desktop\Integracion\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.vacaciones.resources
+C:\Users\mario\Desktop\Integracion\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software Industrial.csproj.GenerateResource.Cache
+C:\Users\mario\Desktop\Integracion\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.compras.resources
+C:\Users\mario\Desktop\Integracion\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.estado.resources
+C:\Users\mario\Desktop\Integracion\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.pedido.resources
+C:\Users\mario\Desktop\Integracion\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.proveedores.resources
+C:\Users\mario\Desktop\Integracion\Integracion 2\Proyecto final\Software Industrial\Software Industrial\bin\Debug\Software Industrial.exe.config
+C:\Users\mario\Desktop\Integracion\Integracion 2\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software Industrial.exe
+C:\Users\mario\Desktop\Integracion\Integracion 2\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software Industrial.pdb
+C:\Users\mario\Desktop\Integracion\Integracion 2\Proyecto final\Software Industrial\Software Industrial\bin\Debug\Software Industrial.exe
+C:\Users\mario\Desktop\Integracion\Integracion 2\Proyecto final\Software Industrial\Software Industrial\bin\Debug\Software Industrial.pdb
+C:\Users\mario\Desktop\Integracion\Integracion 2\Proyecto final\Software Industrial\Software Industrial\bin\Debug\Navegador.dll
+C:\Users\mario\Desktop\Integracion\Integracion 2\Proyecto final\Software Industrial\Software Industrial\bin\Debug\ODBCConnect.dll
+C:\Users\mario\Desktop\Integracion\Integracion 2\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software Industrial.csprojResolveAssemblyReference.cache
+C:\Users\mario\Desktop\Integracion\Integracion 2\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.compras.resources
+C:\Users\mario\Desktop\Integracion\Integracion 2\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.estado.resources
+C:\Users\mario\Desktop\Integracion\Integracion 2\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.pedido.resources
+C:\Users\mario\Desktop\Integracion\Integracion 2\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.proveedores.resources
+C:\Users\mario\Desktop\Integracion\Integracion 2\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.asignar_usuarios.resources
+C:\Users\mario\Desktop\Integracion\Integracion 2\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.ausencias.resources
+C:\Users\mario\Desktop\Integracion\Integracion 2\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Causencias.resources
+C:\Users\mario\Desktop\Integracion\Integracion 2\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.departamentos.resources
+C:\Users\mario\Desktop\Integracion\Integracion 2\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.empleados.resources
+C:\Users\mario\Desktop\Integracion\Integracion 2\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.gastos.resources
+C:\Users\mario\Desktop\Integracion\Integracion 2\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Inventario.movimientos.resources
+C:\Users\mario\Desktop\Integracion\Integracion 2\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Inventario.nota_ingreso.resources
+C:\Users\mario\Desktop\Integracion\Integracion 2\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Inventario.salida.resources
+C:\Users\mario\Desktop\Integracion\Integracion 2\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Inventario.productos.resources
+C:\Users\mario\Desktop\Integracion\Integracion 2\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Inventario.inventarios.resources
+C:\Users\mario\Desktop\Integracion\Integracion 2\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.personal.resources
+C:\Users\mario\Desktop\Integracion\Integracion 2\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.asigna_empleado.resources
+C:\Users\mario\Desktop\Integracion\Integracion 2\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.asigna_maquinaria.resources
+C:\Users\mario\Desktop\Integracion\Integracion 2\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.buscar_formula.resources
+C:\Users\mario\Desktop\Integracion\Integracion 2\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.asignacion_maquinaria.resources
+C:\Users\mario\Desktop\Integracion\Integracion 2\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.busca_empleado.resources
+C:\Users\mario\Desktop\Integracion\Integracion 2\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.busca_ordenpro.resources
+C:\Users\mario\Desktop\Integracion\Integracion 2\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.busca_produccion.resources
+C:\Users\mario\Desktop\Integracion\Integracion 2\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.centro_produccion.resources
+C:\Users\mario\Desktop\Integracion\Integracion 2\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.crear_receta.resources
+C:\Users\mario\Desktop\Integracion\Integracion 2\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.configuracion.resources
+C:\Users\mario\Desktop\Integracion\Integracion 2\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.elaboracion.resources
+C:\Users\mario\Desktop\Integracion\Integracion 2\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.estados_produccion.resources
+C:\Users\mario\Desktop\Integracion\Integracion 2\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.fases_produccion.resources
+C:\Users\mario\Desktop\Integracion\Integracion 2\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.gestion_produccion.resources
+C:\Users\mario\Desktop\Integracion\Integracion 2\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.puestos.resources
+C:\Users\mario\Desktop\Integracion\Integracion 2\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Recursos_Humanos.resources
+C:\Users\mario\Desktop\Integracion\Integracion 2\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.rrhh.resources
+C:\Users\mario\Desktop\Integracion\Integracion 2\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.login.resources
+C:\Users\mario\Desktop\Integracion\Integracion 2\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.maquinaria.resources
+C:\Users\mario\Desktop\Integracion\Integracion 2\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.MDI.resources
+C:\Users\mario\Desktop\Integracion\Integracion 2\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.planificacion.resources
+C:\Users\mario\Desktop\Integracion\Integracion 2\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.produccion.resources
+C:\Users\mario\Desktop\Integracion\Integracion 2\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.toma_inventario.resources
+C:\Users\mario\Desktop\Integracion\Integracion 2\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Properties.Resources.resources
+C:\Users\mario\Desktop\Integracion\Integracion 2\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.tiempo_laborado.resources
+C:\Users\mario\Desktop\Integracion\Integracion 2\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.vacaciones.resources
+C:\Users\mario\Desktop\Integracion\Integracion 2\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software Industrial.csproj.GenerateResource.Cache
+C:\Users\mario\Desktop\Integracion\Integracion 2\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.registro_usuarios.resources
+C:\Users\mario\Desktop\Integracion\Integracion 2\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.bitacora.resources
+C:\Users\mario\Desktop\Integracion\Integracion 3\Proyecto final\Software Industrial\Software Industrial\bin\Debug\Software Industrial.exe.config
+C:\Users\mario\Desktop\Integracion\Integracion 3\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software Industrial.exe
+C:\Users\mario\Desktop\Integracion\Integracion 3\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software Industrial.pdb
+C:\Users\mario\Desktop\Integracion\Integracion 3\Proyecto final\Software Industrial\Software Industrial\bin\Debug\Software Industrial.exe
+C:\Users\mario\Desktop\Integracion\Integracion 3\Proyecto final\Software Industrial\Software Industrial\bin\Debug\Software Industrial.pdb
+C:\Users\mario\Desktop\Integracion\Integracion 3\Proyecto final\Software Industrial\Software Industrial\bin\Debug\i3nRiqJSON.dll
+C:\Users\mario\Desktop\Integracion\Integracion 3\Proyecto final\Software Industrial\Software Industrial\bin\Debug\Navegador.dll
+C:\Users\mario\Desktop\Integracion\Integracion 3\Proyecto final\Software Industrial\Software Industrial\bin\Debug\ODBCConnect.dll
+C:\Users\mario\Desktop\Integracion\Integracion 3\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software Industrial.csprojResolveAssemblyReference.cache
+C:\Users\mario\Desktop\Integracion\Integracion 3\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.bitacora.resources
+C:\Users\mario\Desktop\Integracion\Integracion 3\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.compras.resources
+C:\Users\mario\Desktop\Integracion\Integracion 3\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.estado.resources
+C:\Users\mario\Desktop\Integracion\Integracion 3\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.pedido.resources
+C:\Users\mario\Desktop\Integracion\Integracion 3\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.proveedores.resources
+C:\Users\mario\Desktop\Integracion\Integracion 3\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.asignar_usuarios.resources
+C:\Users\mario\Desktop\Integracion\Integracion 3\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.registro_usuarios.resources
+C:\Users\mario\Desktop\Integracion\Integracion 3\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.ausencias.resources
+C:\Users\mario\Desktop\Integracion\Integracion 3\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Causencias.resources
+C:\Users\mario\Desktop\Integracion\Integracion 3\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.departamentos.resources
+C:\Users\mario\Desktop\Integracion\Integracion 3\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.empleados.resources
+C:\Users\mario\Desktop\Integracion\Integracion 3\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.gastos.resources
+C:\Users\mario\Desktop\Integracion\Integracion 3\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Inventario.movimientos.resources
+C:\Users\mario\Desktop\Integracion\Integracion 3\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Inventario.nota_ingreso.resources
+C:\Users\mario\Desktop\Integracion\Integracion 3\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Inventario.salida.resources
+C:\Users\mario\Desktop\Integracion\Integracion 3\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Inventario.productos.resources
+C:\Users\mario\Desktop\Integracion\Integracion 3\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Inventario.inventarios.resources
+C:\Users\mario\Desktop\Integracion\Integracion 3\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.personal.resources
+C:\Users\mario\Desktop\Integracion\Integracion 3\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.asigna_empleado.resources
+C:\Users\mario\Desktop\Integracion\Integracion 3\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.asigna_maquinaria.resources
+C:\Users\mario\Desktop\Integracion\Integracion 3\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.buscar_formula.resources
+C:\Users\mario\Desktop\Integracion\Integracion 3\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.asignacion_maquinaria.resources
+C:\Users\mario\Desktop\Integracion\Integracion 3\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.busca_empleado.resources
+C:\Users\mario\Desktop\Integracion\Integracion 3\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.busca_ordenpro.resources
+C:\Users\mario\Desktop\Integracion\Integracion 3\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.busca_produccion.resources
+C:\Users\mario\Desktop\Integracion\Integracion 3\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.centro_produccion.resources
+C:\Users\mario\Desktop\Integracion\Integracion 3\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.crear_receta.resources
+C:\Users\mario\Desktop\Integracion\Integracion 3\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.configuracion.resources
+C:\Users\mario\Desktop\Integracion\Integracion 3\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.elaboracion.resources
+C:\Users\mario\Desktop\Integracion\Integracion 3\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.estados_produccion.resources
+C:\Users\mario\Desktop\Integracion\Integracion 3\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.fases_produccion.resources
+C:\Users\mario\Desktop\Integracion\Integracion 3\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.gestion_produccion.resources
+C:\Users\mario\Desktop\Integracion\Integracion 3\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.puestos.resources
+C:\Users\mario\Desktop\Integracion\Integracion 3\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Recursos_Humanos.resources
+C:\Users\mario\Desktop\Integracion\Integracion 3\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.rrhh.resources
+C:\Users\mario\Desktop\Integracion\Integracion 3\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.login.resources
+C:\Users\mario\Desktop\Integracion\Integracion 3\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.maquinaria.resources
+C:\Users\mario\Desktop\Integracion\Integracion 3\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.MDI.resources
+C:\Users\mario\Desktop\Integracion\Integracion 3\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.planificacion.resources
+C:\Users\mario\Desktop\Integracion\Integracion 3\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.produccion.resources
+C:\Users\mario\Desktop\Integracion\Integracion 3\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.toma_inventario.resources
+C:\Users\mario\Desktop\Integracion\Integracion 3\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Properties.Resources.resources
+C:\Users\mario\Desktop\Integracion\Integracion 3\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.tiempo_laborado.resources
+C:\Users\mario\Desktop\Integracion\Integracion 3\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.vacaciones.resources
+C:\Users\mario\Desktop\Integracion\Integracion 3\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.stock.resources
+C:\Users\mario\Desktop\Integracion\Integracion 3\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software Industrial.csproj.GenerateResource.Cache
+C:\Users\mario\Desktop\Integracion\integracion 4\Proyecto final\Software Industrial\Software Industrial\bin\Debug\Software Industrial.exe.config
+C:\Users\mario\Desktop\Integracion\integracion 4\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software Industrial.exe
+C:\Users\mario\Desktop\Integracion\integracion 4\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software Industrial.pdb
+C:\Users\mario\Desktop\Integracion\integracion 4\Proyecto final\Software Industrial\Software Industrial\bin\Debug\Software Industrial.exe
+C:\Users\mario\Desktop\Integracion\integracion 4\Proyecto final\Software Industrial\Software Industrial\bin\Debug\Software Industrial.pdb
+C:\Users\mario\Desktop\Integracion\integracion 4\Proyecto final\Software Industrial\Software Industrial\bin\Debug\i3nRiqJSON.dll
+C:\Users\mario\Desktop\Integracion\integracion 4\Proyecto final\Software Industrial\Software Industrial\bin\Debug\Navegador.dll
+C:\Users\mario\Desktop\Integracion\integracion 4\Proyecto final\Software Industrial\Software Industrial\bin\Debug\ODBCConnect.dll
+C:\Users\mario\Desktop\Integracion\integracion 4\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software Industrial.csprojResolveAssemblyReference.cache
+C:\Users\mario\Desktop\Integracion\integracion 4\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.asignacion_maquinaria.resources
+C:\Users\mario\Desktop\Integracion\integracion 4\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.asigna_empleado.resources
+C:\Users\mario\Desktop\Integracion\integracion 4\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.asigna_maquinaria.resources
+C:\Users\mario\Desktop\Integracion\integracion 4\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.buscar_formula.resources
+C:\Users\mario\Desktop\Integracion\integracion 4\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.busca_empleado.resources
+C:\Users\mario\Desktop\Integracion\integracion 4\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.busca_ordenpro.resources
+C:\Users\mario\Desktop\Integracion\integracion 4\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.busca_produccion.resources
+C:\Users\mario\Desktop\Integracion\integracion 4\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.centro_produccion.resources
+C:\Users\mario\Desktop\Integracion\integracion 4\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.configuracion.resources
+C:\Users\mario\Desktop\Integracion\integracion 4\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.crear_receta.resources
+C:\Users\mario\Desktop\Integracion\integracion 4\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.elaboracion.resources
+C:\Users\mario\Desktop\Integracion\integracion 4\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.estados_produccion.resources
+C:\Users\mario\Desktop\Integracion\integracion 4\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.fases_produccion.resources
+C:\Users\mario\Desktop\Integracion\integracion 4\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.gestion_produccion.resources
+C:\Users\mario\Desktop\Integracion\integracion 4\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.maquinaria.resources
+C:\Users\mario\Desktop\Integracion\integracion 4\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.planificacion.resources
+C:\Users\mario\Desktop\Integracion\integracion 4\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.produccion.resources
+C:\Users\mario\Desktop\Integracion\integracion 4\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.toma_inventario.resources
+C:\Users\mario\Desktop\Integracion\integracion 4\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.bitacora.resources
+C:\Users\mario\Desktop\Integracion\integracion 4\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.compras.resources
+C:\Users\mario\Desktop\Integracion\integracion 4\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.estado.resources
+C:\Users\mario\Desktop\Integracion\integracion 4\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.pedido.resources
+C:\Users\mario\Desktop\Integracion\integracion 4\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.proveedores.resources
+C:\Users\mario\Desktop\Integracion\integracion 4\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.asignar_usuarios.resources
+C:\Users\mario\Desktop\Integracion\integracion 4\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.registro_usuarios.resources
+C:\Users\mario\Desktop\Integracion\integracion 4\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.ausencias.resources
+C:\Users\mario\Desktop\Integracion\integracion 4\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Causencias.resources
+C:\Users\mario\Desktop\Integracion\integracion 4\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.departamentos.resources
+C:\Users\mario\Desktop\Integracion\integracion 4\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.empleados.resources
+C:\Users\mario\Desktop\Integracion\integracion 4\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.gastos.resources
+C:\Users\mario\Desktop\Integracion\integracion 4\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Inventario.movimientos.resources
+C:\Users\mario\Desktop\Integracion\integracion 4\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Inventario.nota_ingreso.resources
+C:\Users\mario\Desktop\Integracion\integracion 4\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Inventario.salida.resources
+C:\Users\mario\Desktop\Integracion\integracion 4\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Inventario.productos.resources
+C:\Users\mario\Desktop\Integracion\integracion 4\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Inventario.inventarios.resources
+C:\Users\mario\Desktop\Integracion\integracion 4\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.personal.resources
+C:\Users\mario\Desktop\Integracion\integracion 4\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.puestos.resources
+C:\Users\mario\Desktop\Integracion\integracion 4\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Recursos_Humanos.resources
+C:\Users\mario\Desktop\Integracion\integracion 4\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.rrhh.resources
+C:\Users\mario\Desktop\Integracion\integracion 4\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.login.resources
+C:\Users\mario\Desktop\Integracion\integracion 4\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.MDI.resources
+C:\Users\mario\Desktop\Integracion\integracion 4\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Properties.Resources.resources
+C:\Users\mario\Desktop\Integracion\integracion 4\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.tiempo_laborado.resources
+C:\Users\mario\Desktop\Integracion\integracion 4\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.vacaciones.resources
+C:\Users\mario\Desktop\Integracion\integracion 4\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.stock.resources
+C:\Users\mario\Desktop\Integracion\integracion 4\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software Industrial.csproj.GenerateResource.Cache
+C:\Users\mario\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\bin\Debug\Software Industrial.exe.config
+C:\Users\mario\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software Industrial.exe
+C:\Users\mario\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software Industrial.pdb
+C:\Users\mario\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software Industrial.csprojResolveAssemblyReference.cache
+C:\Users\mario\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.asignacion_maquinaria.resources
+C:\Users\mario\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.asigna_empleado.resources
+C:\Users\mario\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.asigna_maquinaria.resources
+C:\Users\mario\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.buscar_formula.resources
+C:\Users\mario\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.busca_empleado.resources
+C:\Users\mario\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.busca_ordenpro.resources
+C:\Users\mario\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.centro_produccion.resources
+C:\Users\mario\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.configuracion.resources
+C:\Users\mario\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.crear_receta.resources
+C:\Users\mario\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.elaboracion.resources
+C:\Users\mario\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.estados_produccion.resources
+C:\Users\mario\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.fases_produccion.resources
+C:\Users\mario\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.gestion_produccion.resources
+C:\Users\mario\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.maquinaria.resources
+C:\Users\mario\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.planificacion.resources
+C:\Users\mario\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.produccion.resources
+C:\Users\mario\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.toma_inventario.resources
+C:\Users\mario\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.bitacora.resources
+C:\Users\mario\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.compras.resources
+C:\Users\mario\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.estado.resources
+C:\Users\mario\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.pedido.resources
+C:\Users\mario\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.proveedores.resources
+C:\Users\mario\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.asignar_usuarios.resources
+C:\Users\mario\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.registro_usuarios.resources
+C:\Users\mario\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.ausencias.resources
+C:\Users\mario\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Causencias.resources
+C:\Users\mario\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.departamentos.resources
+C:\Users\mario\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.empleados.resources
+C:\Users\mario\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.gastos.resources
+C:\Users\mario\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Inventario.movimientos.resources
+C:\Users\mario\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Inventario.nota_ingreso.resources
+C:\Users\mario\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Inventario.salida.resources
+C:\Users\mario\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Inventario.productos.resources
+C:\Users\mario\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Inventario.inventarios.resources
+C:\Users\mario\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.personal.resources
+C:\Users\mario\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.puestos.resources
+C:\Users\mario\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Recursos_Humanos.resources
+C:\Users\mario\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.rrhh.resources
+C:\Users\mario\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.login.resources
+C:\Users\mario\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.MDI.resources
+C:\Users\mario\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Properties.Resources.resources
+C:\Users\mario\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.tiempo_laborado.resources
+C:\Users\mario\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.vacaciones.resources
+C:\Users\mario\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.stock.resources
+C:\Users\mario\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software Industrial.csproj.GenerateResource.Cache
+C:\Users\mario\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\bin\Debug\Software Industrial.exe
+C:\Users\mario\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\bin\Debug\Software Industrial.pdb
+C:\Users\mario\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\bin\Debug\i3nRiqJSON.dll
+C:\Users\mario\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\bin\Debug\Navegador.dll
+C:\Users\mario\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\bin\Debug\ODBCConnect.dll
+C:\Users\Joseph\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\bin\Debug\Software Industrial.exe.config
+C:\Users\Joseph\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software Industrial.exe
+C:\Users\Joseph\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software Industrial.pdb
+C:\Users\Joseph\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\bin\Debug\Software Industrial.exe
+C:\Users\Joseph\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\bin\Debug\Software Industrial.pdb
+C:\Users\Joseph\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\bin\Debug\Navegador.dll
+C:\Users\Joseph\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\bin\Debug\ODBCConnect.dll
+C:\Users\Joseph\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software Industrial.csprojResolveAssemblyReference.cache
+C:\Users\Joseph\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.asignacion_maquinaria.resources
+C:\Users\Joseph\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.asigna_empleado.resources
+C:\Users\Joseph\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.asigna_maquinaria.resources
+C:\Users\Joseph\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.buscar_formula.resources
+C:\Users\Joseph\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.busca_empleado.resources
+C:\Users\Joseph\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.busca_ordenpro.resources
+C:\Users\Joseph\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.centro_produccion.resources
+C:\Users\Joseph\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.configuracion.resources
+C:\Users\Joseph\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.crear_receta.resources
+C:\Users\Joseph\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.elaboracion.resources
+C:\Users\Joseph\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.estados_produccion.resources
+C:\Users\Joseph\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.fases_produccion.resources
+C:\Users\Joseph\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.gestion_produccion.resources
+C:\Users\Joseph\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.maquinaria.resources
+C:\Users\Joseph\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.planificacion.resources
+C:\Users\Joseph\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.produccion.resources
+C:\Users\Joseph\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.toma_inventario.resources
+C:\Users\Joseph\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.bitacora.resources
+C:\Users\Joseph\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.compras.resources
+C:\Users\Joseph\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.estado.resources
+C:\Users\Joseph\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.pedido.resources
+C:\Users\Joseph\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.proveedores.resources
+C:\Users\Joseph\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.asignar_usuarios.resources
+C:\Users\Joseph\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.registro_usuarios.resources
+C:\Users\Joseph\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.ausencias.resources
+C:\Users\Joseph\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Causencias.resources
+C:\Users\Joseph\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.departamentos.resources
+C:\Users\Joseph\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.empleados.resources
+C:\Users\Joseph\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.gastos.resources
+C:\Users\Joseph\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Inventario.movimientos.resources
+C:\Users\Joseph\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Inventario.nota_ingreso.resources
+C:\Users\Joseph\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Inventario.salida.resources
+C:\Users\Joseph\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Inventario.productos.resources
+C:\Users\Joseph\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Inventario.inventarios.resources
+C:\Users\Joseph\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.personal.resources
+C:\Users\Joseph\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.puestos.resources
+C:\Users\Joseph\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Recursos_Humanos.resources
+C:\Users\Joseph\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.rrhh.resources
+C:\Users\Joseph\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.login.resources
+C:\Users\Joseph\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.MDI.resources
+C:\Users\Joseph\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Properties.Resources.resources
+C:\Users\Joseph\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.tiempo_laborado.resources
+C:\Users\Joseph\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.vacaciones.resources
+C:\Users\Joseph\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.stock.resources
+C:\Users\Joseph\Desktop\Integracion\Integracion 5\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software Industrial.csproj.GenerateResource.Cache
+C:\Users\Joseph\Desktop\Proyecto final\Software Industrial\Software Industrial\bin\Debug\Software Industrial.exe
+C:\Users\Joseph\Desktop\Proyecto final\Software Industrial\Software Industrial\bin\Debug\Software Industrial.pdb
+C:\Users\Joseph\Desktop\Proyecto final\Software Industrial\Software Industrial\bin\Debug\Navegador.dll
+C:\Users\Joseph\Desktop\Proyecto final\Software Industrial\Software Industrial\bin\Debug\ODBCConnect.dll
+C:\Users\Joseph\Desktop\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software Industrial.csprojResolveAssemblyReference.cache
+C:\Users\Joseph\Desktop\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.asignacion_maquinaria.resources
+C:\Users\Joseph\Desktop\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.asigna_empleado.resources
+C:\Users\Joseph\Desktop\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.asigna_maquinaria.resources
+C:\Users\Joseph\Desktop\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.buscar_formula.resources
+C:\Users\Joseph\Desktop\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.busca_empleado.resources
+C:\Users\Joseph\Desktop\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.busca_ordenpro.resources
+C:\Users\Joseph\Desktop\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.centro_produccion.resources
+C:\Users\Joseph\Desktop\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.configuracion.resources
+C:\Users\Joseph\Desktop\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.crear_receta.resources
+C:\Users\Joseph\Desktop\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.elaboracion.resources
+C:\Users\Joseph\Desktop\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.estados_produccion.resources
+C:\Users\Joseph\Desktop\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.fases_produccion.resources
+C:\Users\Joseph\Desktop\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.gestion_produccion.resources
+C:\Users\Joseph\Desktop\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.maquinaria.resources
+C:\Users\Joseph\Desktop\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.planificacion.resources
+C:\Users\Joseph\Desktop\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.produccion.resources
+C:\Users\Joseph\Desktop\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Produccion.toma_inventario.resources
+C:\Users\Joseph\Desktop\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.bitacora.resources
+C:\Users\Joseph\Desktop\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.compras.resources
+C:\Users\Joseph\Desktop\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.estado.resources
+C:\Users\Joseph\Desktop\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.pedido.resources
+C:\Users\Joseph\Desktop\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.proveedores.resources
+C:\Users\Joseph\Desktop\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.asignar_usuarios.resources
+C:\Users\Joseph\Desktop\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.registro_usuarios.resources
+C:\Users\Joseph\Desktop\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.ausencias.resources
+C:\Users\Joseph\Desktop\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Causencias.resources
+C:\Users\Joseph\Desktop\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.departamentos.resources
+C:\Users\Joseph\Desktop\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.empleados.resources
+C:\Users\Joseph\Desktop\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.gastos.resources
+C:\Users\Joseph\Desktop\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Inventario.movimientos.resources
+C:\Users\Joseph\Desktop\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Inventario.nota_ingreso.resources
+C:\Users\Joseph\Desktop\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Inventario.salida.resources
+C:\Users\Joseph\Desktop\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Inventario.productos.resources
+C:\Users\Joseph\Desktop\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Inventario.inventarios.resources
+C:\Users\Joseph\Desktop\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.personal.resources
+C:\Users\Joseph\Desktop\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.puestos.resources
+C:\Users\Joseph\Desktop\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Recursos_Humanos.resources
+C:\Users\Joseph\Desktop\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.rrhh.resources
+C:\Users\Joseph\Desktop\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.login.resources
+C:\Users\Joseph\Desktop\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.MDI.resources
+C:\Users\Joseph\Desktop\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Properties.Resources.resources
+C:\Users\Joseph\Desktop\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.tiempo_laborado.resources
+C:\Users\Joseph\Desktop\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.vacaciones.resources
+C:\Users\Joseph\Desktop\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.stock.resources
+C:\Users\Joseph\Desktop\Proyecto final\Software Industrial\Software Industrial\obj\Debug\Software Industrial.csproj.GenerateResource.Cache
