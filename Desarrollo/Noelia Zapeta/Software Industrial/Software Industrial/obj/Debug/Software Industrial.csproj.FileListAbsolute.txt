@@ -8,3 +8,69 @@ c:\users\joseph\documents\visual studio 2013\Projects\Software Industrial\Softwa
 c:\users\joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software Industrial.pdb
 c:\users\joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.MDI.resources
 c:\users\joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Login.resources
+C:\Users\Joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\bin\Debug\ODBCConnect.dll
+C:\Users\Joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\bin\Debug\Navegador.dll
+C:\Users\Joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.buscar_formula.resources
+C:\Users\Joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.asignacion_maquinaria.resources
+C:\Users\Joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.busca_empleado.resources
+C:\Users\Joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.crear_receta.resources
+C:\Users\Joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.configuracion.resources
+C:\Users\Joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.maquinaria.resources
+C:\Users\Joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.produccion.resources
+C:\Users\Joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.gestion_produccion.resources
+C:\Users\Joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Inventario.movimientos.resources
+C:\Users\Joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Inventario.nota_ingreso.resources
+C:\Users\Joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Inventario.salida.resources
+C:\Users\Joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Inventario.productos.resources
+C:\Users\Joseph\documents\visual studio 2013\Projects\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Inventario.inventarios.resources
+C:\Users\Noelia\Desktop\Software Industrial\Software Industrial\bin\Debug\Software Industrial.exe.config
+C:\Users\Noelia\Desktop\Software Industrial\Software Industrial\obj\Debug\Software Industrial.exe
+C:\Users\Noelia\Desktop\Software Industrial\Software Industrial\obj\Debug\Software Industrial.pdb
+C:\Users\Noelia\Desktop\Software Industrial\Software Industrial\bin\Debug\Software Industrial.exe
+C:\Users\Noelia\Desktop\Software Industrial\Software Industrial\bin\Debug\Software Industrial.pdb
+C:\Users\Noelia\Desktop\Software Industrial\Software Industrial\bin\Debug\Navegador.dll
+C:\Users\Noelia\Desktop\Software Industrial\Software Industrial\bin\Debug\ODBCConnect.dll
+C:\Users\Noelia\Desktop\Software Industrial\Software Industrial\obj\Debug\Software Industrial.csprojResolveAssemblyReference.cache
+C:\Users\Noelia\Desktop\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Inventario.movimientos.resources
+C:\Users\Noelia\Desktop\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Inventario.nota_ingreso.resources
+C:\Users\Noelia\Desktop\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Inventario.salida.resources
+C:\Users\Noelia\Desktop\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Inventario.productos.resources
+C:\Users\Noelia\Desktop\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Inventario.inventarios.resources
+C:\Users\Noelia\Desktop\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.buscar_formula.resources
+C:\Users\Noelia\Desktop\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.asignacion_maquinaria.resources
+C:\Users\Noelia\Desktop\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.busca_empleado.resources
+C:\Users\Noelia\Desktop\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.crear_receta.resources
+C:\Users\Noelia\Desktop\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.configuracion.resources
+C:\Users\Noelia\Desktop\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.gestion_produccion.resources
+C:\Users\Noelia\Desktop\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.login.resources
+C:\Users\Noelia\Desktop\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.maquinaria.resources
+C:\Users\Noelia\Desktop\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.MDI.resources
+C:\Users\Noelia\Desktop\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.produccion.resources
+C:\Users\Noelia\Desktop\Software Industrial\Software Industrial\obj\Debug\Software_Industrial.Properties.Resources.resources
+C:\Users\Noelia\Desktop\Software Industrial\Software Industrial\obj\Debug\Software Industrial.csproj.GenerateResource.Cache
+C:\Users\Noelia\Desktop\Software Industrial I\Software Industrial\bin\Debug\Software Industrial.exe.config
+C:\Users\Noelia\Desktop\Software Industrial I\Software Industrial\obj\Debug\Software Industrial.exe
+C:\Users\Noelia\Desktop\Software Industrial I\Software Industrial\obj\Debug\Software Industrial.pdb
+C:\Users\Noelia\Desktop\Software Industrial I\Software Industrial\bin\Debug\Software Industrial.exe
+C:\Users\Noelia\Desktop\Software Industrial I\Software Industrial\bin\Debug\Software Industrial.pdb
+C:\Users\Noelia\Desktop\Software Industrial I\Software Industrial\bin\Debug\Navegador.dll
+C:\Users\Noelia\Desktop\Software Industrial I\Software Industrial\bin\Debug\ODBCConnect.dll
+C:\Users\Noelia\Desktop\Software Industrial I\Software Industrial\obj\Debug\Software Industrial.csprojResolveAssemblyReference.cache
+C:\Users\Noelia\Desktop\Software Industrial I\Software Industrial\obj\Debug\Software_Industrial.Inventario.movimientos.resources
+C:\Users\Noelia\Desktop\Software Industrial I\Software Industrial\obj\Debug\Software_Industrial.Inventario.nota_ingreso.resources
+C:\Users\Noelia\Desktop\Software Industrial I\Software Industrial\obj\Debug\Software_Industrial.Inventario.salida.resources
+C:\Users\Noelia\Desktop\Software Industrial I\Software Industrial\obj\Debug\Software_Industrial.Inventario.productos.resources
+C:\Users\Noelia\Desktop\Software Industrial I\Software Industrial\obj\Debug\Software_Industrial.Inventario.inventarios.resources
+C:\Users\Noelia\Desktop\Software Industrial I\Software Industrial\obj\Debug\Software_Industrial.buscar_formula.resources
+C:\Users\Noelia\Desktop\Software Industrial I\Software Industrial\obj\Debug\Software_Industrial.asignacion_maquinaria.resources
+C:\Users\Noelia\Desktop\Software Industrial I\Software Industrial\obj\Debug\Software_Industrial.busca_empleado.resources
+C:\Users\Noelia\Desktop\Software Industrial I\Software Industrial\obj\Debug\Software_Industrial.crear_receta.resources
+C:\Users\Noelia\Desktop\Software Industrial I\Software Industrial\obj\Debug\Software_Industrial.configuracion.resources
+C:\Users\Noelia\Desktop\Software Industrial I\Software Industrial\obj\Debug\Software_Industrial.gestion_produccion.resources
+C:\Users\Noelia\Desktop\Software Industrial I\Software Industrial\obj\Debug\Software_Industrial.login.resources
+C:\Users\Noelia\Desktop\Software Industrial I\Software Industrial\obj\Debug\Software_Industrial.maquinaria.resources
+C:\Users\Noelia\Desktop\Software Industrial I\Software Industrial\obj\Debug\Software_Industrial.MDI.resources
+C:\Users\Noelia\Desktop\Software Industrial I\Software Industrial\obj\Debug\Software_Industrial.produccion.resources
+C:\Users\Noelia\Desktop\Software Industrial I\Software Industrial\obj\Debug\Software_Industrial.Properties.Resources.resources
+C:\Users\Noelia\Desktop\Software Industrial I\Software Industrial\obj\Debug\Software Industrial.csproj.GenerateResource.Cache
+C:\Users\Noelia\Desktop\Software Industrial I\Software Industrial\obj\Debug\Software_Industrial.Inventario.reportes.resources
